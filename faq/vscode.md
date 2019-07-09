@@ -1,5 +1,33 @@
-## VSCode build & debug on Linux
+## VSCode tutorial
+### General tips
+To execute an action in VSCode, press `Ctrl+Shift+P` and type the name of the action.
 
+### Install necessary plugins
+1. Open extensions (`Ctrl+Shift+X` or execute the `Install Extensions` action)
+2. Search for C/C++ -> Install
+3. Search for CMake Tools -> Install
+
+## Create build & debug configuration
+* Using CMake (recommended)
+1. Create `CMakeLists.txt` file in the root of your workspace directory:
+```cmake
+cmake_minimum_required(VERSION 3.0)
+project(hello-world)
+
+# our executable is called main and has a single source file main.c
+add_executable(main main.c)
+```
+
+2. A popup should show in the bottom right corner of VSCode with the following prompt:
+`Would you like to configure this project?` - answer yes.
+(if the popup doesn't show, make sure that you have the `CMake Tools` extension installed)
+and close/reopen VSCode.
+
+3. To build the program, press `F7` (or execute the `CMake: Build` action).
+4. TO debug the program, press `Ctrl+F5` (or execute the `CMake: Debug Target` action).
+
+
+* Using VSCode directly
 ### Build configuration
 1. Create and open `.vscode/tasks.json` (using terminal or VSCode GUI).
 ```bash
