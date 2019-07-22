@@ -8,7 +8,7 @@ To execute an action in VSCode, press `Ctrl+Shift+P` and type the name of the ac
 3. Search for CMake Tools -> Install
 
 ## Create build & debug configuration
-* Using CMake (recommended)
+#### Using CMake (recommended)
 1. Create `CMakeLists.txt` file in the root of your workspace directory:
 ```cmake
 cmake_minimum_required(VERSION 3.0)
@@ -24,10 +24,9 @@ add_executable(main main.c)
 and close/reopen VSCode.
 
 3. To build the program, press `F7` (or execute the `CMake: Build` action).
-4. TO debug the program, press `Ctrl+F5` (or execute the `CMake: Debug Target` action).
+4. To debug the program, press `Ctrl+F5` (or execute the `CMake: Debug Target` action).
 
-
-* Using VSCode directly
+#### Using VSCode directly
 ### Build configuration
 1. Create and open `.vscode/tasks.json` (using terminal or VSCode GUI).
 ```bash
@@ -88,10 +87,4 @@ and show potential errors in the VSCode terminal.
     ]
 }
 ```
-2. Open the C file and press F5.
-
-- Clicking on a column to the left of the line number will insert a breakpoint on the
-selected line (red circle).
-- During debug execution, the program will stop at the selected breakpoints. When the
-program is stopped, you can inspect the values of local variables and observe the function
-call stack.
+2. Open the C file and press F5 to start debugging.
