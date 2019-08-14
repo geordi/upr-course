@@ -1,5 +1,5 @@
-## VSCode tutorial
-### General tips
+# VSCode Tutorial
+## General tips
 To execute an action in VSCode, press `Ctrl+Shift+P` and type the name of the action.
 
 ### Install necessary plugins
@@ -8,7 +8,7 @@ To execute an action in VSCode, press `Ctrl+Shift+P` and type the name of the ac
 3. Search for CMake Tools -> Install
 
 ## Create build & debug configuration
-#### Using CMake (recommended)
+### Using CMake (recommended)
 1. Create `CMakeLists.txt` file in the root of your workspace directory:
 ```cmake
 cmake_minimum_required(VERSION 3.0)
@@ -26,8 +26,8 @@ and close/reopen VSCode.
 3. To build the program, press `F7` (or execute the `CMake: Build` action).
 4. To debug the program, press `Ctrl+F5` (or execute the `CMake: Debug Target` action).
 
-#### Using VSCode directly
-### Build configuration
+### Using VSCode directly
+#### Build configuration
 1. Create and open `.vscode/tasks.json` (using terminal or VSCode GUI).
 ```bash
 $ mkdir -p .vscode
@@ -65,7 +65,7 @@ $ gedit .vscode/tasks.json
 3. Open the C file in VSCode and press `Ctrl+Shift+B` (or Terminal > Run Build Task). This will compile the file
 and show potential errors in the VSCode terminal.
 
-### Debug configuration
+#### Debug configuration
 1. Create and open `.vscode/launch.json` and paste the following content into it:
 ```json5
 {
