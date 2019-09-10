@@ -43,10 +43,10 @@ provide the library file when we run our program. To check which libraries are r
 by our program, we can use `ldd`:
 ```bash
 $ ldd main
-	linux-vdso.so.1 (0x00007ffce73ae000)
-	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f193e1af000)
-	/lib64/ld-linux-x86-64.so.2 (0x00007f193e7a2000)
-  foo => ...
+linux-vdso.so.1 (0x00007ffce73ae000)
+libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f193e1af000)
+/lib64/ld-linux-x86-64.so.2 (0x00007f193e7a2000)
+foo => ...
 ```
 
 The program requires the `foo` library. If it is installed globally, we can just
