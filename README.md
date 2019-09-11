@@ -15,8 +15,6 @@ The minimum amount of point to pass the course is 51 (form 100). You can obtain 
 
 ### Exercise 1
 
-First, the [template](https://github.com/geordi/upr-course/raw/master/assets/exericises/templates/exercise_01.zip) for Visual Studio Code is provided.
-
 We'll cover the basics:
 - Editing code in [Visual Studio Code](https://code.visualstudio.com/)
 - Compiling code in the command line
@@ -25,6 +23,8 @@ We'll cover the basics:
 - flow control, `if` condition
 - `while` loop
 - function defition and usage
+
+Here's the [template](https://github.com/geordi/upr-course/raw/master/assets/exericises/templates/exercise_01.zip) for Visual Studio Code that you can use.
 
 
 ## Books
