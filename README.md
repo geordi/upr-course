@@ -65,3 +65,5 @@ HOLDEN, Daniel. [Build Your Own Lisp](https://www.amazon.com/Build-Your-Lisp-Dan
 <img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/book_cover_head_first_c.jpg" width="20%"/>
 
 GRIFFITHS, David. [Head First C](https://www.amazon.com/Head-First-C-Brain-Friendly-Guide/dp/1449399916), Shroff; First edition, 2012, ISBN 978-9350236925.
+
+KOCHAN, Stephen, G. [Programming in C (4th Edition) 4th Edition](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410), 2014, ISBN 978-0321776419.
