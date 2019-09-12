@@ -2,13 +2,17 @@
 
 You can find all information regarding the Introduction to programming (UPR) course tought at the [Department of Computer Science](https://www.cs.vsb.cz), [VŠB - TU Ostrava](https://www.vsb.cz).
 
+## Study material
+https://geordi.github.io/upr-skripta
+
 
 ## Grading
 
-The minimum amount of point to pass the course is 51 (form 100). You can obtain points from the following areas:
-- 55 points - completing tasks form exercises
+The minimum amount of point to pass the course is 51 (out of 100). You can obtain points from the following areas:
+- 55 points - completing tasks from exercises
 - 30 points - project
 - 15 points - final test
+
 
 ## Exercises
 
@@ -24,7 +28,20 @@ We'll cover the basics:
 - `while` loop
 - function defition and usage
 
-Here's the [template](https://github.com/geordi/upr-course/raw/master/assets/exericises/templates/exercise_01.zip) for Visual Studio Code that you can use.
+Here's the [template](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/exercise_01.zip) for Visual Studio Code that you can use.
+
+### Slack channel
+https://upr-vsb.slack.com
+
+
+### Cheatsheets
+- [C](./cheatsheets/c.pdf)
+- [Linux](./cheatsheets/linux.pdf)
+- [Keyboard characters](./cheatsheets/keyboard-cs.pdf)
+
+### Interesting Links
+
+If you want to visualize small C programs, [Python Tutor for C](http://pythontutor.com/c.html) is the great tool. You can step though your programs and see how the memory is used.
 
 
 ## Books
@@ -48,17 +65,3 @@ HOLDEN, Daniel. [Build Your Own Lisp](https://www.amazon.com/Build-Your-Lisp-Dan
 <img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/book_cover_head_first_c.jpg" width="20%"/>
 
 GRIFFITHS, David. [Head First C](https://www.amazon.com/Head-First-C-Brain-Friendly-Guide/dp/1449399916), Shroff; First edition, 2012, ISBN 978-9350236925.
-
-
-### Slack channel
-https://upr-vsb.slack.com
-
-
-### Cheatsheets
-- [C](./cheatsheets/c.pdf)
-- [Linux](./cheatsheets/linux.pdf)
-
-
-### Interesting Links
-
-If you want to visualize small C programs, [Python Tutor for C](http://pythontutor.com/c.html) is the great tool. You can step though your programs and see how the memory is used.
