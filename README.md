@@ -2,7 +2,9 @@
 
 You can find all information regarding the Introduction to programming (UPR) course tought at the [Department of Computer Science](https://www.cs.vsb.cz), [VŠB - TU Ostrava](https://www.vsb.cz).
 
-## Study material
+## Study material (in Czech)
+
+A brief study material is provided in Czech language:
 https://geordi.github.io/upr-skripta
 
 
@@ -65,5 +67,7 @@ HOLDEN, Daniel. [Build Your Own Lisp](https://www.amazon.com/Build-Your-Lisp-Dan
 <img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/book_cover_head_first_c.jpg" width="20%"/>
 
 GRIFFITHS, David. [Head First C](https://www.amazon.com/Head-First-C-Brain-Friendly-Guide/dp/1449399916), Shroff; First edition, 2012, ISBN 978-9350236925.
+
+<img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/book_cover_programming_in_c.jpg" width="20%"/>
 
 KOCHAN, Stephen, G. [Programming in C (4th Edition) 4th Edition](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410), 2014, ISBN 978-0321776419.
