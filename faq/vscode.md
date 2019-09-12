@@ -7,7 +7,16 @@ tools useful for programmers (compiling/debugging programs).
 ### Installation
 https://code.visualstudio.com/docs/setup/setup-overview
 
-### Install necessary plugins
+### Install necessary plugins (recommended)
+
+Open up a terminal and execute the following command to install VSCode extensions:
+
+```
+code --install-extension ms-vscode.cpptools
+code --install-extension vector-of-bool.cmake-tools
+```
+
+### Install necessary plugins (not recomended, clicking way)
 1. Open extensions (`Ctrl+Shift+X` or execute the `Install Extensions` action)
 2. Search for C/C++ -> Install
 3. Search for CMake Tools -> Install
