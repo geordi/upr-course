@@ -38,6 +38,7 @@ https://upr-vsb.slack.com
 
 ### Cheatsheets
 - [C](./cheatsheets/c.pdf)
+- [C (another version)](./cheatsheets/c_ref_card_v22.pdf)
 - [Linux](./cheatsheets/linux.pdf)
 - [Keyboard characters](./cheatsheets/keyboard-cs.pdf)
 
