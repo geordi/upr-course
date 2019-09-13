@@ -22,7 +22,7 @@ The minimum amount of point to pass the course is 51 (out of 100). You can obtai
 ### Exercise 1
 
 We'll cover the basics:
-- Editing code in [Visual Studio Code](https://code.visualstudio.com/)
+- Editing code in [Visual Studio Code](./faq/vscode.md)
 - Compiling code in the command line
 - defining integer variables
 - basic arithmetics and operator priorities
