@@ -2,12 +2,6 @@
 
 You can find all information regarding the Introduction to programming (UPR) course tought at the [Department of Computer Science](https://www.cs.vsb.cz), [VŠB - TU Ostrava](https://www.vsb.cz).
 
-## Study material (in Czech)
-
-A brief study material is provided in Czech language:
-https://geordi.github.io/upr-skripta
-
-
 ## Grading
 
 The minimum amount of point to pass the course is 51 (out of 100). You can obtain points from the following areas:
