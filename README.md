@@ -55,14 +55,18 @@ HEROUT, Pavel. Učebnice jazyka C. Praha: [Středisko pro podporu studentů se s
 
 ### In English
 
-<img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/book_cover_build_your_own_lisp.jpg" width="20%"/>
+<img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/book_cover_programming_in_c.jpg" width="20%"/>
 
-HOLDEN, Daniel. [Build Your Own Lisp](https://www.amazon.com/Build-Your-Lisp-Daniel-Holden/dp/1501006622), CreateSpace Independent Publishing Platform; 1 edition, 2014, ISBN 978-1501006623.
+KOCHAN, Stephen, G. [Programming in C (4th Edition) 4th Edition](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410), 2014, ISBN 978-0321776419.
+
 
 <img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/book_cover_head_first_c.jpg" width="20%"/>
 
 GRIFFITHS, David. [Head First C](https://www.amazon.com/Head-First-C-Brain-Friendly-Guide/dp/1449399916), Shroff; First edition, 2012, ISBN 978-9350236925.
 
-<img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/book_cover_programming_in_c.jpg" width="20%"/>
 
-KOCHAN, Stephen, G. [Programming in C (4th Edition) 4th Edition](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410), 2014, ISBN 978-0321776419.
+For people who want to understand more about programming languages:
+
+<img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/book_cover_build_your_own_lisp.jpg" width="20%"/>
+
+HOLDEN, Daniel. [Build Your Own Lisp](https://www.amazon.com/Build-Your-Lisp-Daniel-Holden/dp/1501006622), CreateSpace Independent Publishing Platform; 1 edition, 2014, ISBN 978-1501006623.
