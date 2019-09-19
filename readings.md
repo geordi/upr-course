@@ -2,7 +2,7 @@
 
 Here You can find readings in a week by week manner.
 
-## Week 1:
+## Week 1
 
 From KOCHAN, Stephen, G.: Programming in C (3rd Edition)
 
