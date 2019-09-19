@@ -26,7 +26,7 @@ We'll cover the basics:
 
 Here's the [template](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/exercise_01.zip) for Visual Studio Code that you can use.
 
-See also [Reading for Week 1](./readings.md#week-1)) for further information.
+See also [Readings for Week 1](./readings.md#week-1) for further information.
 
 
 ### Slack channel
