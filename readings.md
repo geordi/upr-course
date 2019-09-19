@@ -1,10 +1,10 @@
-# Redings
+# Readings
 
 Here You can find readings in a week by week manner.
 
 ## Week 1
 
-From KOCHAN, Stephen, G.: Programming in C (3rd Edition)
+### KOCHAN, Stephen, G.: Programming in C (3rd Edition)
 
 Whole chapter: Some Fundamentals
 Whole chapter: Compiling and Running Your First Program
