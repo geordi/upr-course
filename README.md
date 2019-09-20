@@ -29,17 +29,22 @@ Here's the [template](https://github.com/geordi/upr-course/raw/master/assets/exe
 See also [Readings for Week 1](./readings.md#week-1) for further information.
 
 
-### Slack channel
+## Slack channel
 https://upr-vsb.slack.com
 
 
-### Cheatsheets
+## Cheatsheets
 - [C](./assets/cheatsheets/c.pdf)
 - [C (another version)](./assets/cheatsheets/c_ref_card_v22.pdf)
 - [Linux](./assets/cheatsheets/linux.pdf)
 - [Keyboard characters](./assets/cheatsheets/keyboard-cs.pdf)
 
-### Interesting Links
+
+## Linux virtual machine
+
+Virtual machine of linux is provided. See [Linux virtual machine](./faq/vm.md) FAQ for running.
+
+## Interesting Links
 
 If you want to visualize small C programs, [Python Tutor for C](http://pythontutor.com/c.html) is the great tool. You can step though your programs and see how the memory is used.
 
