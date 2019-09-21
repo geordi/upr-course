@@ -13,7 +13,7 @@ Ideálně se ptejte na přednáškách a acvičeních. Od toho tady jsme, abycho
 
 ## Co když nemám žádný počítač ani ntb? Low-budget student.
 
-Můžete navštěvovat učebny Katedry informatiky (KI), když nemáte výuku. Když tam uvidíte volné místo, zajděte za cvičícím, jestli si tam můžete sednout a dělat si svou práci.
+Můžete navštěvovat učebny [Katedry informatiky (KI)](http://www.cs.vsb.cz), když nemáte výuku. Když tam uvidíte volné místo, zajděte za cvičícím, jestli si tam můžete sednout a dělat si svou práci.
 
 Učebny jsou KI jsou tyto (a do většiny z nich je vidět přes okno):
 - EB104
