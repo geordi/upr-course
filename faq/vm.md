@@ -1,6 +1,6 @@
 # Using a Virtual Machine with Linux
 
-[Daniel Trnka](https://github.com/trnila) was very kind and created a virtual image of Linux with Ubuntu 18.04. It's the same configuration as is our lab computers.
+[Daniel Trnka](https://github.com/trnila) was very kind and created a virtual image of Linux with Ubuntu 18.04 ([source repo is here](https://github.com/trnila/upr-vm)). It's the same configuration as is our lab computers.
 
 ## Virtual image
 
