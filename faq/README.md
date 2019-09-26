@@ -6,3 +6,4 @@ Sections:
 - [Visual Studio Code](vscode.md)
 - [Build](build.md)
 - [Debugging](debugging.md)
+- [Remote accessing to you files](remote_files.md)
