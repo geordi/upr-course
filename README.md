@@ -33,7 +33,8 @@ https://upr-vsb.slack.com
 
 ## Linux virtual machine
 
-Virtual machine of linux is provided. See [Linux virtual machine](./faq/vm.md) FAQ for running.
+A virtual machine of the Ubuntu Linux similar to lab computers is provided.
+See [Linux virtual machine](./faq/vm.md) FAQ for instructions to run it.
 
 
 ## Interesting Links
