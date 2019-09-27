@@ -1,6 +1,8 @@
 # Readings
 
 Here You can find readings in a week by week manner.
+Don't forget to read section Exercises at the end of each chapter to practice your coding skills.
+
 
 ## Week 1
 
@@ -20,3 +22,51 @@ From chapter: Program Looping
 
 From chapter: Making Decisions
 - The `if` Statement
+
+
+## Week 2
+
+### KOCHAN, Stephen, G.: Programming in C (3rd Edition)
+
+From chapter: Program Looping
+- The `for` Statement
+- The `break` Statement
+- The `continue` Statement
+
+From chapter: Working with Functions:
+- Defining a Function
+- Arguments and Local Variables
+- Returning Function Results
+- Functions Calling Functions Calling...
+- Top-Down Programming
+
+From chapter: Making Decisions
+- The `switch` Statement
+- Boolean Variables
+
+
+## Week 3
+
+### KOCHAN, Stephen, G.: Programming in C (3rd Edition)
+
+From chapter: Working with Arrays:
+- Defining an Array
+- Initializing Arrays
+- Character Arrays
+
+From chapter: Working with Functions:
+- Functions and Arrays (__skip__ Multidimensional Arrays)
+
+From chapter: Character Strings:
+- Arrays of Characters
+- Variable-Length Character Strings
+- Escape Characters
+- More on Constant Strings
+- Character Operations
+
+From chapter: Pointers:
+- Using Pointers in Expressions
+- Pointers and Functions
+- Pointers and Arrays
+- Operations on Pointers
+- Pointers and Memory Addresses

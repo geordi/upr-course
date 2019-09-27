@@ -12,21 +12,12 @@ The minimum amount of point to pass the course is 51 (out of 100). You can obtai
 
 ## Exercises
 
+FOr exerises, check the [dedicated page](exercises.md).
 
-### Exercise 1
 
-We'll cover the basics:
-- Editing code in [Visual Studio Code](./faq/vscode.md)
-- Compiling code in the command line
-- Defining integer variables
-- Basic arithmetics and operator priorities
-- Flow control, `if` condition
-- `while` loop
-- Function defition and usage
+## Readings
 
-Here's the [template](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/exercise_01.zip) for Visual Studio Code that you can use.
-
-See also [Readings for Week 1](./readings.md#week-1) for further information.
+See [Readings](./readings.md) page for list of recommended texts to understanded all topics.
 
 
 ## Slack channel
@@ -43,6 +34,7 @@ https://upr-vsb.slack.com
 ## Linux virtual machine
 
 Virtual machine of linux is provided. See [Linux virtual machine](./faq/vm.md) FAQ for running.
+
 
 ## Interesting Links
 
