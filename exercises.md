@@ -35,5 +35,5 @@ We'll cover new concepts of:
 - Passing array into a function
 - Returning more than one value from a function
 - Memory management:
- - Allocating memory for ur resources
- - Freeing memory
+  - Allocating memory for resources
+  - Freeing memory
