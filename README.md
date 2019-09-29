@@ -12,7 +12,7 @@ The minimum amount of point to pass the course is 51 (out of 100). You can obtai
 
 ## Exercises
 
-FOr exerises, check the [dedicated page](exercises.md).
+For exerises, check the [dedicated page](exercises.md).
 
 
 ## Readings
