@@ -12,12 +12,13 @@ The minimum amount of point to pass the course is 51 (out of 100). You can obtai
 
 ## Exercises
 
-For exerises, check the [dedicated page](exercises.md).
+For exercises, check the [dedicated page](exercises.md).
 
+You can find various programming tasks to improve your skills [here](tasks).
 
 ## Readings
 
-See [Readings](./readings.md) page for list of recommended texts to understanded all topics.
+See [Readings](./readings.md) page for a list of recommended texts to understand all topics.
 
 
 ## Slack channel
@@ -33,13 +34,13 @@ https://upr-vsb.slack.com
 
 ## Linux virtual machine
 
-A virtual machine of the Ubuntu Linux similar to lab computers is provided.
-See [Linux virtual machine](./faq/vm.md) FAQ for instructions to run it.
+A virtual machine of Ubuntu Linux similar to lab computers is provided.
+See [Linux virtual machine](./faq/vm.md) FAQ for instructions how to run it.
 
 
 ## Interesting Links
 
-If you want to visualize small C programs, [Python Tutor for C](http://pythontutor.com/c.html) is the great tool. You can step though your programs and see how the memory is used.
+If you want to visualize small C programs, [Python Tutor for C](http://pythontutor.com/c.html) is a great tool. You can step though your programs and see how the memory is laid out and how its contents change.
 
 
 ## Books
