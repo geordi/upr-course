@@ -23,10 +23,10 @@ code --install-extension ms-vscode.cpptools
 code --install-extension vector-of-bool.cmake-tools
 ```
 
-You also need to have CMake installed on your (Linux) system.
+You also need to have CMake and a C compiler installed on your (Linux) system.
 If you have Ubuntu, you can install it using
 ```bash
-sudo apt-get install cmake
+sudo apt-get install cmake build-essential
 ```
 
 ### Install necessary plugins (not recomended, the clicking way)
