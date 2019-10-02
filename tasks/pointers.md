@@ -22,3 +22,7 @@ Můžete použít například algoritmus Bubble sort (https://en.wikipedia.org/w
 - Program, který načte od uživatele číslo `n`. Poté naalokujte paměť o velikosti `n` `int`ů a 
 načtěte ze vstupu `n` čísel, které postupně uložte do vytvořeného pole. Vypište součet načteného
 pole.
+- Funkci, která přijme pole a "obrátí ho" (první prvek se stane posledním prvkem, druhý prvek se stane
+předposledním prvkem atd.).
+- Funkci, která přijme dvě pole a zkopíruje prvky prvního pole do druhého pole.
+
