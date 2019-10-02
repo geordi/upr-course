@@ -3,6 +3,11 @@ Visual Studio Code (VSCode) is an IDE (integrated development environment). IDEs
 are programs that combine editor functionality (writing text/code) with
 tools useful for programmers (compiling/debugging programs).
 
+### Useful shortcuts 
+- Start debugging - Ctrl + F5
+- Format code - Ctrl + Shift + I
+- Execute action - Ctrl + Shift + P
+
 ## Setup
 
 ### Installation
@@ -55,6 +60,3 @@ and restart VSCode.
 
 3. To build the program, press `F7` (or execute the `CMake: Build` action).
 4. To debug the program, press `Ctrl+F5` (or execute the `CMake: Debug Target` action).
-
-## General tips
-- To execute an action in VSCode, press `Ctrl+Shift+P` and type the name of the action.
