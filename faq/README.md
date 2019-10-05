@@ -7,3 +7,4 @@ Sections:
 - [Build](build.md)
 - [Debugging](debugging.md)
 - [Remote accessing of your files](remote_files.md)
+- [Questions from lectures](beginners.md)
