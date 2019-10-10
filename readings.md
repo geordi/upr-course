@@ -57,16 +57,21 @@ From chapter: Working with Arrays:
 From chapter: Working with Functions:
 - Functions and Arrays (__skip__ Multidimensional Arrays)
 
-From chapter: Character Strings:
-- Arrays of Characters
-- Variable-Length Character Strings
-- Escape Characters
-- More on Constant Strings
-- Character Operations
-
 From chapter: Pointers:
 - Using Pointers in Expressions
 - Pointers and Functions
 - Pointers and Arrays
 - Operations on Pointers
 - Pointers and Memory Addresses
+
+## Week 4
+
+### KOCHAN, Stephen, G.: Programming in C (3rd Edition)
+
+From chapter: **Strings**:
+- Arrays of Characters
+- Variable-Length Character Strings
+- Escape Characters
+- More on Constant Strings
+- Character Operations
+
