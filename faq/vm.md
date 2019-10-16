@@ -6,6 +6,10 @@
 
 Virual image is provided [here](http://mrl.cs.vsb.cz/data/upr/UPR.ova) in OVA format.
 
+Login for the account in the Virtual image:
+- Username: student
+- Password: student
+
 ## How to open virtual image in the VirtualBox
 
 1. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
