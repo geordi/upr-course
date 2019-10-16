@@ -72,3 +72,9 @@ For people who want to understand more about programming languages:
 <img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/book_cover_build_your_own_lisp.jpg" width="20%"/>
 
 HOLDEN, Daniel. [Build Your Own Lisp](https://www.amazon.com/Build-Your-Lisp-Daniel-Holden/dp/1501006622), CreateSpace Independent Publishing Platform; 1 edition, 2014, ISBN 978-1501006623.
+
+## A book to get excited about computing :-)
+
+<img src="https://upload.wikimedia.org/wikipedia/en/2/28/The_soul_of_a_new_machine_--_book_cover.jpg" width="20%"/>
+
+KIDDER, Tracy. [The Soul of a New Machine](https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine), Little, Brown and Company, 1981, ISBN 978-0-316-49170-9.
