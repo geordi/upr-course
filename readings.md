@@ -64,6 +64,7 @@ From chapter: Pointers:
 - Operations on Pointers
 - Pointers and Memory Addresses
 
+
 ## Week 4
 
 ### KOCHAN, Stephen, G.: Programming in C (3rd Edition)
@@ -75,3 +76,24 @@ From chapter: **Strings**:
 - More on Constant Strings
 - Character Operations
 
+
+## Week 5 & 6
+
+### KOCHAN, Stephen, G.: Programming in C (3rd Edition)
+
+From chapter: **Working with Structures**
+- Functions and Structures
+- Initializing Structures
+- Arrays of Structures
+- Structures Containing Structures
+- Structures Containing Arrays
+- Structure Variants
+
+
+## Week 7
+
+### KOCHAN, Stephen, G.: Programming in C (3rd Edition)
+
+From chapter: **Input and Output Operations in C**
+- Input and Output Operations with Files
+- Special Functions for Working with Files
