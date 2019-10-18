@@ -1,0 +1,45 @@
+\documentclass[crop,tikz]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{matrix,backgrounds,arrows.meta,fit,positioning,decorations.pathreplacing}
+\begin{document}
+
+\begin{tikzpicture}[font=\ttfamily,
+  array/.style={matrix of nodes,nodes={draw, minimum size=7mm},column sep=-\pgflinewidth, row sep=0mm, nodes in empty cells,text height=1.5ex, text depth=.25ex,
+    row 1/.style={nodes={draw=none, fill=none, minimum size=5mm}},
+    column 1/.style={nodes={draw=none, fill=none, minimum size=5mm}},
+}]
+
+\matrix[array] (matrix) {
+  & 0 & 1 & 2 \\
+0 & 1 & 2 & 3 \\
+1 & 4 & 5 & 6 \\
+2 & 7 & 8 & 9 \\ };
+
+\node[right=1cm of matrix-3-4.west] {$\times$};
+
+\matrix[array,right=0.5cm of matrix] (vector) {
+      \\
+  0  & \textcolor{red}{10} \\
+ 1  & \textcolor{green}{20} \\
+  2  & \textcolor{blue}{30} \\ };
+
+\draw[decoration={brace},decorate]([xshift=2mm]vector-2-2.north east) -- node[right] (vector_len) {len} ([xshift=2mm]vector-4-2.south east);
+\node[right=0cm of vector_len.east] {$=$};
+
+\matrix[array,right=1.3cm of vector] (vectorres) {
+      \\
+  0  & $ 1 \cdot \textcolor{red}{10} + 2 \cdot \textcolor{green}{20} + 3 \cdot \textcolor{blue}{30}  $ \\
+1  & $ 4 \cdot \textcolor{red}{10} + 5 \cdot \textcolor{green}{20} + 6 \cdot \textcolor{blue}{30}  $ \\
+2  & $ 7 \cdot \textcolor{red}{10} + 8 \cdot \textcolor{green}{20} + 9 \cdot \textcolor{blue}{30}   $ \\ };
+\draw[decoration={brace},decorate]([xshift=2mm]vectorres-2-2.north east) -- node[right] {len} ([xshift=2mm]vectorres-4-2.south east);
+
+\draw[decoration={brace},decorate](matrix-1-2.north west) -- node[above] (cols) {cols} (matrix-1-4.north east);
+\draw[decoration={brace,mirror},decorate]([xshift=-1mm]matrix-2-1.north) -- node[left] (cols) {rows} ([xshift=-1mm]matrix-4-1.south);
+
+\draw[->,line width=1pt] node[below of=matrix-4-3,yshift=-2mm] {matrix} edge (matrix);
+\draw[->,line width=1pt] node[below of=vector-4-2,yshift=-2mm] {vec} edge (vector);
+
+\draw[->,line width=1pt] node[below of=vectorres-4-2,yshift=-2mm] {dyn. pole pro výsledek} edge (vectorres);
+
+\end{tikzpicture}
+\end{document}

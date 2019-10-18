@@ -1,0 +1,64 @@
+\documentclass[crop,tikz]{standalone}
+\usepackage[T1]{fontenc}
+\usepackage{tikz}
+\usetikzlibrary{matrix,backgrounds,arrows.meta,fit,positioning,decorations.pathreplacing}
+\begin{document}
+
+\begin{tikzpicture}[font=\ttfamily,every node/.style={scale=1.3},
+  array/.style={nodes={draw, minimum size=7mm, anchor=center,fill=green!30},column sep=-\pgflinewidth, row sep=0mm},
+	linearray/.style={nodes={draw, minimum size=7mm}}
+]
+
+{% set table = [['1', ' ', '2', ' ', '3'], [' ', '4', '5', '6', ' '], ['7', '8', '9', '10', '11'], [' ', '12', '13', '14', ' '], ['15', ' ', '16', ' ', '17']] %}
+{% set colors = ['green!30', 'red!30', 'blue!30', 'yellow!30', 'orange!30'] %}
+
+\matrix[array] (array)  {
+{% for row in table %}
+	{% set rowloop = loop %}
+	{% for col in row %}
+		\node[fill={{ colors[rowloop.index - 1] }}] (array-{{rowloop.index}}-{{loop.index}}) { {{ col }} }; {{ "&" if not loop.last }}
+	{% endfor %} \\
+{% endfor %}
+ \\ };
+
+\matrix[linearray] (arrayline) [below of=array,yshift=-15mm] {
+{% for row in table %}
+	{% set rowloop = loop %}
+	{% for col in row %}
+		\node[draw=none] (linearray-idx-{{rowloop.index}}-{{loop.index}}) { {{ (rowloop.index - 1) * table[0]|length + loop.index - 1 }} }; &
+	{% endfor %} 
+{% endfor %} \\
+
+{% for row in table %}
+	{% set rowloop = loop %}
+	{% for col in row %}
+		\node[fill={{ colors[rowloop.index - 1] }}] (linearray-{{rowloop.index}}-{{loop.index}}) { {{ col }} }; &
+	{% endfor %}
+{% endfor %}
+ \\ };
+
+
+\node[left=4cm of array-2-1.west] (idx_row) {1};
+\node[right=0cm of idx_row] (idx_mul) {*};
+\node[right=0cm of idx_mul] (idx_cols) {5};
+\node[right=0cm of idx_cols] (idx_add) {+};
+\node[right=0cm of idx_add] (idx_col) {1};
+\node[right=0cm of idx_col] (idx_res) {= 6};
+
+% result to matrices
+\draw[->,line width=1pt] (idx_res) -> (array-2-2.west);
+\draw[->,line width=1pt] ([xshift=-4mm,yshift=-2mm]idx_res.east) -> (linearray-idx-2-2.north);
+
+% cols
+\draw[decoration={brace},decorate]([yshift=+1mm]array-1-1.north west) -- node[above] (cols) {cols (počet sloupců)} ([yshift=+1mm]array-1-5.north east);
+\draw[->,line width=1pt] (cols.west) -> (idx_cols);
+
+% rows, cols arrows
+\draw[->,line width=1pt] node[below of=idx_row,xshift=-5mm] {řádek} edge (idx_row);
+\draw[->,line width=1pt] node[below of=idx_col,xshift=-7mm] {sloupec} edge (idx_col);
+
+
+\end{tikzpicture}
+
+
+\end{document}
