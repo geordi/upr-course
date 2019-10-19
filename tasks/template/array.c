@@ -4,31 +4,31 @@
 #include <stdlib.h>
 #include <assert.h>
 
-void fill_array(int *array, int len, int start, int increment) {
+void fill_array(int *array, const int len, const int start, const int increment) {
 }
 
-void print_array(int *array, int len) {
+void print_array(const int *array, const int len) {
 }
 
-int num_count(int *array, int len, int num) {
+int num_count(const int *array, const int len, const int num) {
 }
 
-int in_interval(int *array, int len, int from, int to) {
+int in_interval(const int *array, const int len, const int from, const int to) {
 }
 
-double avg(int *array, int len) {
+double avg(const int *array, const int len) {
 }
 
-void min_max(int *array, int len, int *min, int *max) {
+void min_max(const int *array, const int len, int *min, int *max) {
 }
 
-void array_reverse(int *array, int len) {
+void array_reverse(int *array, const int len) {
 }
 
-int dot(int *a, int *b, int len) {
+int dot(const int *a, const int *b, const int len) {
 }
 
-void counting_sort(int *array, int len, int from, int to) {
+void counting_sort(int *array, const int len, const int from, const int to) {
 }
 
 /**

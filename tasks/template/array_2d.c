@@ -4,13 +4,13 @@
 #include <stdlib.h>
 #include <assert.h>
 
-void print_matrix(int* matrix, int rows, int cols) {
+void print_matrix(const int* matrix, const int rows, const int cols) {
 }
 
-void print_img(int* matrix, int rows, int cols) {
+void print_img(const int* matrix, const int rows, const int cols) {
 }
 
-void draw_star(int *matrix, int rows, int cols) {
+void draw_star(int *matrix, const int rows, const int cols) {
   // pro vykresleni hvezdice musi platit rows == cols
   // pro procviceni indexu ale predpokladejte ze to neplati (pouzivejte row * cols + col)
 
@@ -29,10 +29,10 @@ void draw_star(int *matrix, int rows, int cols) {
   }
 }
 
-void matrix_mul_scalar(int* matrix, int rows, int cols, int k) {
+void matrix_mul_scalar(int* matrix, const int rows, const int cols, const int k) {
 }
 
-int* matrix_mul_vec(int* matrix, int rows, int cols, int *vec, int len) {
+int* matrix_mul_vec(const int* matrix, const int rows, const int cols, const int *vec, const int len) {
 }
 
 /**
