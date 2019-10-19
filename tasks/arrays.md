@@ -3,8 +3,7 @@ Pole je složeno z více prvků stejného typu uspořádaných za sebou v pamět
 Pole je reprezentováno pointrem (`int *array`) neboli adresou na nultý prvek.
 Počet prvků v poli si většinou musíme ukládat (`len`).
 
-
-![](figures/array.svg)
+<img src="figures/array.svg" width=260>
 
 
 ## `fill_array` - naplnění pole
@@ -57,7 +56,7 @@ void array_reverse(int *array, int len);
 Pole projdeme pomoci cyklu do jeho půlky a budeme vždy prohazovat prvky z obou konců.
 Pokud bychom projeli celé pole, tak bychom v druhé půlce přehazovali prvky na jejích původní místo.
 
-![](figures/array_reverse.svg)
+<img src="figures/array_reverse.svg" width=215>
 
 Přehození dvou prvků nemůžeme udělat najednou, tak si musíme například prvek z levého konce uložit do proměnné a následně do toho prvku zapsat hodnotu z pravého konce.
 Poté lze uložit hodnotu z proměnné do pravého konce.
@@ -81,12 +80,12 @@ Ve funkci `counting_sort` si vytvoříme pole 10 čítačů, které vynulujeme n
 Následně projdeme celé vstupní pole `array` a pro každý prvek inkrementujeme patřičný čítač.
 Při výskytu prvku `0` inkrementujeme nultý čítač, při výskytu `1` první čítač atd.
 
-![](figures/counting_sort.svg)
+<img src="figures/counting_sort.svg" width=340>
 
 Čítače jsou seřazený a obsahují počet výskytu jednotlivých čísel.
 Stačí tedy projít všechny čítače a zapsat tolik prvků, kolik je hodnota daného čítače.
 
-![](figures/counting_sort_sorted.svg)
+<img src="figures/counting_sort_sorted.svg" width=340>
 
 ## `bubble_sort` - třídící algoritmus bubble sort
 ## `binary_search` - binární vyhledávání
@@ -120,14 +119,14 @@ void matrix_mul_scalar(int* matrix, int rows, int cols, int k);
 ```
 Vytvořte funkci, která vynásobí každý prvek matice číslem `k`.
 
-![](figures/matrix_scalar.svg)
+<img src="figures/matrix_scalar.svg" width=340>
 
 ## `matrix_mul_vec` - násobení matice vektorem
 ```c
 int* matrix_mul_vec(int* matrix, int rows, int cols, int *vec, int len);
 ```
 
-![](figures/matrix_vector.svg)
+<img src="figures/matrix_vector.svg" width=530>
 
 ## `matrix_mul` - násobení dvou matic
 
