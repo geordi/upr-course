@@ -7,7 +7,8 @@ on [Slack](https://upr-vsb.slack.com).
 #### Problem categories
 - [Basics](basics.md)
 - [Strings](strings.md)
-- [Arrays and pointers](pointers.md)
+- [Pointers](pointers.md)
+- [Arrays](arrays.md)
 
 You can find a lot of other exercises and problems at:
 - [Advent of code](https://adventofcode.com/2018/events)
