@@ -9,6 +9,7 @@ on [Slack](https://upr-vsb.slack.com).
 - [Strings](strings.md)
 - [Pointers](pointers.md)
 - [Arrays](arrays.md)
+- [Structures](structs.md)
 
 You can find a lot of other exercises and problems at:
 - [Advent of code](https://adventofcode.com/2018/events)
