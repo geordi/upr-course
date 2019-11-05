@@ -16,11 +16,11 @@ https://code.visualstudio.com/docs/setup/setup-overview
 
 ### Install necessary plugins (recommended)
 
-Open up a terminal and execute the following command to install VSCode extensions:
+Open up a terminal and execute the following commands to install VSCode extensions:
 
 ```
-code --install-extension ms-vscode.cpptools
-code --install-extension vector-of-bool.cmake-tools
+$ code --install-extension ms-vscode.cpptools
+$ code --install-extension vector-of-bool.cmake-tools
 ```
 
 You also need to have CMake and a C compiler installed on your (Linux) system.
