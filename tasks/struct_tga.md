@@ -29,7 +29,7 @@ Modře je znázorněna oblast, kde se nic nevykresluje.
 Jsou znázorněna jen čtyři čísla, zbytek si již odvodíte sami.
 
 
-### Funkce na implementaci
+### Funkce a struktury na implementaci
 
 Postupně naimplementujte následující funkce a struktury.
 
@@ -40,13 +40,14 @@ Funkce nakreslí do obrázku `self` čas zadaný pomocí času v hodinách (`hou
 Barvu čísel si zvolte libovolně, stějně jako barvu pozadí.
 
 
-#### Struktura pro reprezentaci barvy pixelu (`BGRA`)
+#### Struktura pro reprezentaci barvy pixelu (`RGBA`)
 
 Barva se do každého pixelu zapisuje jako čtveřice bajtů `BGRA` (`B` - Blue, `G` - Green, `R` - Red, `A` - Alpha).
 Nadefinujte si strukturu `RGBA`, která bude tyto bajty reprezentovat pomocí čtyř proměnných: `r`, `g`, `b`,`a` patřičného datového typu.
 
 
-#### Funkce `watch_draw_time_color( TGAImage * self, const int hours, const int minutes, const BGRA * fg_color, const BGRA * bg_color )`
+#### Funkce `watch_draw_time_color( TGAImage * self, const int hours, const int minutes, const RGBA * fg_color, const RGBA * bg_color )`
 
 Funkce nakreslí do obrázku `self` čas zadaný pomocí času v hodinách (`hours`) a minutách (`minutes`).
 Barva čísel je předána parametrem `fg_color`, barva pozadí pak parametrem `bg_color`.
+
