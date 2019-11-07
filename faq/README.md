@@ -4,7 +4,7 @@ It assumes a Linux (Ubuntu/Debian) environment unless specified otherwise.
 Sections:
 - [Linux virtual machine](vm.md)
 - [Visual Studio Code](vscode.md)
-- [Build](build.md)
+- [Building a simple program](build.md)
 - [Debugging](debugging.md)
-- [Remote accessing of your files](remote_files.md)
+- [Remote access to files that you create at university computers](remote_files.md)
 - [Questions from lectures](beginners.md)
