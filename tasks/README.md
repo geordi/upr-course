@@ -10,7 +10,7 @@ on [Slack](https://upr-vsb.slack.com).
 - [Pointers](pointers.md)
 - [Arrays](arrays.md)
 - [Structures](structs.md)
-- [TGA Image Manipulation](struct_tga_.md)
+- [TGA Image Manipulation](struct_tga.md)
 
 You can find a lot of other exercises and problems at:
 - [Advent of code](https://adventofcode.com/2018/events)
