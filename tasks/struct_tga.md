@@ -25,7 +25,7 @@ Displej hodinek má rozlišení `368x448` px ([pixelů](https://en.wikipedia.org
 Na obrázku výše je rozklesleno, jak by se měl zobrazovat čas na hodinkách.
 První řádek slouží pro zobrazeni hodin, druhý řádek pro zobrazení minut.
 Tloušťky jednotlivých segmentů a rozestupy jsou také zakresleny.
-Modře je znázorněna oblast, kde se nic nevykresluje.
+Modře je znázorněna oblast, kde se nevykreslují číslice, ale je možno kreslit pozadí ciferníku.
 Jsou znázorněna jen čtyři čísla, zbytek si již odvodíte sami.
 
 
