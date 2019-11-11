@@ -37,3 +37,13 @@ We'll cover new concepts of:
 - Memory management:
   - Allocating memory for resources
   - Freeing memory
+
+
+## Exercise 10
+
+- TGA image file format
+
+
+## Exercise 14
+
+- Project evaluation
