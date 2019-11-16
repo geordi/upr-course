@@ -111,6 +111,20 @@ V případě funkce `print_img` se vytisknou čísla jako znaky.
 ```c
 void draw_star(int* matrix, int rows, int cols);
 ```
+```
+X    X    X
+ X   X   X 
+  X  X  X  
+   X X X   
+    XXX    
+XXXXXXXXXXX
+    XXX    
+   X X X   
+  X  X  X  
+ X   X   X 
+X    X    X
+```
+
 Hvězdici můžeme vykreslit do pole pomocí jediného cyklu.
 
 ## `matrix_mul_scalar` - násobení matice skalárem
