@@ -2,6 +2,7 @@ This FAQ contains several guides for setting up basic stuff.
 It assumes a Linux (Ubuntu/Debian) environment unless specified otherwise.
 
 Sections:
+- [Projects](projects.md)
 - [Linux virtual machine](vm.md)
 - [Visual Studio Code](vscode.md)
 - [Building a simple program](build.md)
