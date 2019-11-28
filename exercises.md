@@ -44,6 +44,17 @@ We'll cover new concepts of:
 - TGA image file format
 
 
+## Exercise 11
+
+We'll cover SDL basics:
+ - [SDL project template](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/sdl_playground.zip)
+
+SDL Documentation:
+- [SDL Documentation homepage](http://wiki.libsdl.org/FrontPage)
+- [SDL API By Name](http://wiki.libsdl.org/CategoryAPI)
+- [SDL API By Category](http://wiki.libsdl.org/APIByCategory)
+
+
 ## Exercise 14
 
 - Project evaluation
