@@ -53,6 +53,7 @@ SDL Documentation:
 - [SDL Documentation homepage](http://wiki.libsdl.org/FrontPage)
 - [SDL API By Name](http://wiki.libsdl.org/CategoryAPI)
 - [SDL API By Category](http://wiki.libsdl.org/APIByCategory)
+- [SDL Tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
 
 
 ## Exercise 14
