@@ -11,6 +11,7 @@ on [Slack](https://upr-vsb.slack.com).
 - [Arrays](arrays.md)
 - [Structures](structs.md)
 - [TGA Image Manipulation](struct_tga.md)
+- [Gravity Game](sdl_gravity_balls.md)
 
 You can find a lot of other exercises and problems at:
 - [Advent of code](https://adventofcode.com/2018/events)
