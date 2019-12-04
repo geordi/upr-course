@@ -1,7 +1,7 @@
 # Gravitace
 
 Obrátili se na Vás vývojáři nové herní konzole, abyste jim pomohli s vývojem jednoduché hry.
-Herné konzole je programována v knihovně [SDL](/exercises.md#Exercise-11).
+Herní konzole je programována v knihovně [SDL](/exercises.md#Exercise-11).
 
 
 ## Gravitace působící na objekt
