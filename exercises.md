@@ -56,6 +56,13 @@ SDL Documentation:
 - [SDL Tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
 
 
+## Exercise 12
+
+Simple function derivation computation and visualization of its meaning (see [video in this link](/assets/images/sdl_derivation.gif) or below).
+
+<img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/sdl_derivation.gif" width="50%"/>
+
+
 ## Exercise 14
 
 - Project evaluation
