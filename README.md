@@ -28,7 +28,8 @@ See [Readings](./readings.md) page for a list of recommended texts to understand
 https://upr-vsb.slack.com
 
 
-## Cheatsheets
+## Documentation & Cheatsheets
+- [C documentation](https://devdocs.io/c/)
 - [C](./assets/cheatsheets/c.pdf)
 - [C (another version)](./assets/cheatsheets/c_ref_card_v22.pdf)
 - [Linux](./assets/cheatsheets/linux.pdf)
