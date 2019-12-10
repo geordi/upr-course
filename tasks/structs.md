@@ -19,9 +19,9 @@ Ten může být reprezentován polohou středu v prostoru (`center`) a poloměre
 ### Operace s kruhem
 
 
-#### `circle_perimeter` - výpočet obvodu
+#### `circle_circumference` - výpočet obvodu
 ```c
-float circle_perimeter( const Circle * self );
+float circle_circumference( const Circle * self );
 ```
 
 Funkce vrátí obvod kruhu podle dobře známého vzorce.
