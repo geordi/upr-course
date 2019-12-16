@@ -77,6 +77,13 @@ For people who want to understand more about programming languages:
 
 HOLDEN, Daniel. [Build Your Own Lisp](https://www.amazon.com/Build-Your-Lisp-Daniel-Holden/dp/1501006622), CreateSpace Independent Publishing Platform; 1 edition, 2014, ISBN 978-1501006623.
 
+
+## A book about computer design
+
+<img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/book_cover_computer_organization_and_design.jpg" width="20%"/>
+
+PATTERSON, David, HENNESSY, John, L. [Computer Organization and Design](https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0124077269), Morgan Kaufmann, 2013, ISBN 978-0124077263.
+
 ## A book to get excited about computing :-)
 
 <img src="https://upload.wikimedia.org/wikipedia/en/2/28/The_soul_of_a_new_machine_--_book_cover.jpg" width="20%"/>
