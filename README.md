@@ -5,9 +5,9 @@ You can find all information regarding the Introduction to programming (UPR) cou
 ## Grading
 
 The minimum amount of point to pass the course is 51 (out of 100). You can obtain points from the following areas:
-- 55 points (min 28)- completing tasks from exercises
-- 30 points (min 15)- project
-- 15 points (min 8)- final test
+- 55 points (min 28) - completing tasks from exercises
+- 30 points (min 15) - project
+- 15 points (min 8) - final test
 
 
 ## Projects
