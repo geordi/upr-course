@@ -97,3 +97,9 @@ From chapter: **Working with Structures**
 From chapter: **Input and Output Operations in C**
 - Input and Output Operations with Files
 - Special Functions for Working with Files
+
+
+# Watching
+
+- [C Video Tutorial by Derek Banas](https://www.youtube.com/watch?v=8Ib7nwc33uA&list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7)
+- [Code Refactoring](https://www.youtube.com/watch?v=vhYK3pDUijk&list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV)
