@@ -18,3 +18,8 @@ You can find a lot of other exercises and problems at:
 - [Advent of code](https://adventofcode.com/2018/events)
 - [Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3)
 - [Project Euler](https://projecteuler.net/archives)
+
+
+### Other sources
+
+- [C Programming Exercises, Practice, Solution](https://w3resource.com/c-programming-exercises/)
