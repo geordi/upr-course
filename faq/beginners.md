@@ -1,5 +1,14 @@
 # Otázky z přednášek
 
+## Proč jsme nuceni používat Linux?
+
+Linux jako operačný systém UNIXového typu je odladěným nástrojem vývojáře.
+Bariéra pro započetí programování v Linuxu je minimální (vlastně otázka instalace jednoho balíčku kompilátoru), což je mnohem snadnější než ve Windows.
+Nikdo Vás nenutí si Linux instalovat přímo na hardware. Poskytujeme Vám [virtuální stroj se stejným prostředím](vm.md) jako je na učebnách.
+V neposlední řadě stojí za zmínku to, že na přijímacích pohovorech do firem jako je Google nebudete mít k dispozici nic jiného než holý editor bez obarvování syntaxe a kompilator.
+Na Intellisense v takovém případě můžete zapomenout.
+Můžete si o tom přečíst např. v tomto [článku o přípravě na pohovor do Google](https://psc-g.github.io/interviews/google/2020/02/25/interviewing-at-google.html).
+
 
 ## Budou se přednášky týkat spíše z větší části vysvětlení základní programovací logiky (smyčky, podmínky.. ) nebo to je záležitost jen prvních pár hodin?
 
@@ -15,7 +24,8 @@ Ideálně se ptejte na přednáškách a acvičeních. Od toho tady jsme, abycho
 
 Můžete navštěvovat učebny [Katedry informatiky (KI)](http://www.cs.vsb.cz), když nemáte výuku. Když tam uvidíte volné místo, zajděte za cvičícím, jestli si tam můžete sednout a dělat si svou práci.
 
-Učebny jsou KI jsou tyto (a do většiny z nich je vidět přes okno):
+Učebny KI jsou tyto (a do většiny z nich je vidět přes okno):
+
 - EB104
 - EB113
 - EB207
