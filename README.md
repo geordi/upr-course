@@ -47,7 +47,7 @@ See [Linux virtual machine](./faq/vm.md) FAQ for instructions how to run it.
 If you want to visualize small C programs, [Python Tutor for C](http://pythontutor.com/c.html) is a great tool. You can step though your programs and see how the memory is laid out and how its contents change.
 
 [This missing semenster](https://missing.csail.mit.edu/) is a cool site about tools and techniques that are mostly missing in CS education.
-I really recommend to go though it if you want to be fluent in stuff around CS.
+I really recommend to go though it if you want to be fluent in stuff around CS. The previous version of the missing semester is available as [./hacker-tools](https://hacker-tools.github.io/lectures/).
 
 
 ## Books
