@@ -1,55 +1,62 @@
-# Introduction to Programming (Úvod do programování)
+# Úvod do programování
 
-You can find all information regarding the Introduction to programming (UPR) course tought at the [Department of Computer Science](https://www.cs.vsb.cz), [VŠB - TU Ostrava](https://www.vsb.cz).
+V tomto repozitáři naleznete veškeré informace ohledně předmětu Úvod do programovaní (UPR), který je vyučován na [Katedře informatiky](https://www.cs.vsb.cz), [VŠB - TU Ostrava](https://www.vsb.cz).
 
-## Grading
+## Hodnocení
 
-The minimum amount of point to pass the course is 51 (out of 100). You can obtain points from the following areas:
-- 55 points (min 28) - completing tasks from exercises
-- 30 points (min 15) - project
-- 15 points (min 8) - final test
-
-
-## Projects
-You can find info about projects [here](faq/projects.md).
-
-## Exercises
-
-For exercises, check the [dedicated page](exercises.md).
-
-You can find various programming tasks to improve your skills [here](tasks).
-
-## Readings
-
-See [Readings](./readings.md) page for a list of recommended texts to understand all topics.
+Minimální počet bodů pro získání klasifikovaného zápočtu je 51 (ze 100 možných). Body lze získat z následujících úloh (musíte splnit všechna minima):
+- 35 bodů (min 18) - splnění úloh zadaných na cvičení
+- 20 bodů (min 10) - odevzdání domácích úloh
+- 30 bodů (min 15) - projekt
+- 15 bodů (min 8) - závěrečný test
 
 
-## Slack channel
-https://upr-vsb.slack.com
+## Projekty
+
+Informace o projektu naleznete [zde](faq/projects.md).
 
 
-## Documentation & Cheatsheets
-- [C documentation](https://devdocs.io/c/)
+## Cvičení
+
+Podívejte se na stránku určenou přímo pro [cvičení](exercises.md).
+
+Pro procvičení svých programovacích schopností si můžete naprogramovat [připravéné úlohy](tasks).
+
+
+## Studijní literatura
+
+V sekci [studijní literatury](./readings.md) naleznete odkazy na literaturu, kde naleznete seznam doporučených učebních textů, které probírají veškerá témata.
+
+
+## Chatovací nástroj Matrix
+
+https://matrix.cs.vsb.cz
+
+
+## Documentace & Cheatsheety
+- [Dokumentace k jazyku C](https://devdocs.io/c/)
 - [C](./assets/cheatsheets/c.pdf)
-- [C (another version)](./assets/cheatsheets/c_ref_card_v22.pdf)
+- [C (další version)](./assets/cheatsheets/c_ref_card_v22.pdf)
 - [Linux](./assets/cheatsheets/linux.pdf)
-- [Keyboard characters](./assets/cheatsheets/keyboard-cs.pdf)
+- [Znaky na klávesnici](./assets/cheatsheets/keyboard-cs.pdf)
 
 
-## Linux virtual machine
+## Virtuální stroj s Linuxem
 
-A virtual machine of Ubuntu Linux similar to lab computers is provided.
-See [Linux virtual machine](./faq/vm.md) FAQ for instructions how to run it.
+Virtuální stroj s Linuxem, který je dostupný na počítačových učebnách je Vám též k dispozici.
+Podívejte se do sekce [Linuxový virtuální stroj](./faq/vm.md) pro to, jak jej použít.
+
+
+## Knihy
+
+V sekci [knihy](books.md) naleznete doporučenou literaturu.
 
 
 ## Interesting Links
 
-If you want to visualize small C programs, [Python Tutor for C](http://pythontutor.com/c.html) is a great tool. You can step though your programs and see how the memory is laid out and how its contents change.
+Pro vizualizaci jednodušších programů je vhodné použít nástroj [Python Tutor for C](http://pythontutor.com/c.html).
+Můžete si program krokovat a vidět, jak se mění obsah paměti.
 
-[This missing semenster](https://missing.csail.mit.edu/) is a cool site about tools and techniques that are mostly missing in CS education.
-I really recommend to go though it if you want to be fluent in stuff around CS. The previous version of the missing semester is available as [./hacker-tools](https://hacker-tools.github.io/lectures/).
-
-
-## Books
-
-See [Books section](books.md) for recommended books for this course.
+[The missing semenster](https://missing.csail.mit.edu/) je velice pěkná stránka o nástrojích a technikách, které by měl znát každý student informatiky, ale obvykle chybí ve studijním plánu.
+Pokud chcete býti dostatečně zběhlí v používání každodenních nástrojů programátora, vřele toto doporučuji.
+Předchozí verze je dostupná pod názvem: [./hacker-tools](https://hacker-tools.github.io/lectures/).
