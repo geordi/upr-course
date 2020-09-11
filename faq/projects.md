@@ -2,7 +2,7 @@
 
 Zadání bude zveřejněno v dostatečném předstihu pro každého z Vás.
 
-<!-->
+<!--
 You can find your assignment [here](https://upr.cs.vsb.cz/projects).
 You can choose between two assignments (either an application or an SDL-based game).
 -->
