@@ -1,53 +1,47 @@
 # Visual Studio Code
-Visual Studio Code (VSCode) is an IDE (integrated development environment). IDEs
-are programs that combine editor functionality (writing text/code) with
-tools useful for programmers (compiling/debugging programs).
 
-### Useful shortcuts 
-- Start debugging - Ctrl + F5
-- Format code - Ctrl + Shift + I
-- Execute action - Ctrl + Shift + P
+Visual Studio Code (VSCode) je IDE (Integrated Development Environment, integrované vývojové prostředí).
+IDE jsou programy, které kombinují funkcionalitu editoru (psaní/editace kódu) s nástroji užitečnými pro programátora (kompilace/ladění (debug) programů).
 
-## Setup
+### Užitečné klávesové zkratky
+- Start ladění (debug)- `F5`
+- Formátování kódu - `Ctrl + Shift + I`
+- Spuštění příkazu - `Ctrl + Shift + P`
 
-### Installation
+## Nastavení
+
+### Instalace
 
 https://code.visualstudio.com/docs/setup/setup-overview
 
-### Install necessary plugins (recommended)
+### Nainstalujte si rozšíření (plug-in) pro práci s C/C++
 
-Open up a terminal and execute the following commands to install VSCode extensions:
+Otevřete termánál a spusťte následující příkazy pro instalaci rozšíření VSCode:
 
 ```
 $ code --install-extension ms-vscode.cpptools
-$ code --install-extension ms-vscode.cmake-tools
 ```
 
-You also need to have CMake and a C compiler installed on your (Linux) system.
-If you have Ubuntu, you can install it using
-```bash
-sudo apt-get install cmake build-essential
-```
-
+<!--
 ### Install necessary plugins (not recomended, the clicking way)
 1. Open extensions (`Ctrl+Shift+X` or execute the `Install Extensions` action)
 2. Search for C/C++ -> Install
 3. Search for CMake Tools -> Install
+-->
 
-## Opening the first project
+## Otevření a spuštění prvního projektu
 
-1. Add folder with the template in VSCode
-2. A popup should show in the bottom right corner of VSCode with the following prompt:
-`Would you like to configure this project?` - answer `Yes`.
-3. No CMake kits available, click `Scan for Kits` button.
-4. Select `GCC 7.4.0` from the drop down menu at the top of the screen.
-5. Open the `hello_world.c` by double clicking the file in the Explorer on the left side.
-6. Press `Ctrl + F5` to run the program in the debugging mode.
-7. Select `hello_world` binary from the drop down menu.
+1. Přidejte adresář (složku) se vzorovým projektem do VSCode
+2. Otevřete soubor se zdrojovým kódem.
+3. Spusťte ladění stiském klávesy `F5`.
+4. Z rozbalovacého menu nahoře vyberte překladač C++ (GDB/LDB).
+5. Pak zvolte akci (opět z rozalovacího menu nahoře) `gcc-9 Build and debug active file`.
+6. Otevře se editor se souborem `launch.json`, který můžete zavřít (podruhé se již neotevře).
+7. Stiskněte opet `F5` a program se spustí s výstupem do konzole dole.
 
 <img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/vsc_first_run.gif" width="90%"/>
 
-
+<!--
 ## Create build & debug configuration
 1. Create a file named `CMakeLists.txt` in the root of your workspace directory:
 ```cmake
@@ -66,3 +60,4 @@ and restart VSCode.
 
 3. To build the program, press `F7` (or execute the `CMake: Build` action).
 4. To debug the program, press `Ctrl+F5` (or execute the `CMake: Debug Target` action).
+-->
