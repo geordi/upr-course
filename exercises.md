@@ -1,23 +1,25 @@
-# Exercises
+# Cvičení
 
-[Petr Gajdoš](http://gajdos.cs.vsb.cz)  also made [nice page](http://gajdos.cs.vsb.cz/en/introduction-to-programming-1) for exercises with some code samples.
-You can find similar pages of [Jakub Beránek](https://github.com/Kobzol/upr) and [Daniel Trnka](https://github.com/trnila/upr).
+Jednotliví cvičící mají své vlastní stránky, konkrétně pro Vaše studijní skupinu, např. [Jakub Beránek](https://github.com/Kobzol/upr) a [Daniel Trnka](https://github.com/trnila/upr).
+
+<!--[Petr Gajdoš](http://gajdos.cs.vsb.cz)  also made [nice page](http://gajdos.cs.vsb.cz/en/introduction-to-programming-1) for exercises with some code samples.-->
+
+## Cvičení 1
+
+Projdeme následující témata
+- Organizace předmětu
+- Editace a spuštění kódu ve [Visual Studio Code](./faq/vscode.md)
+- Kompilace zdrojového kódu v příkazové řádce
+- Definice celočíselných proměnných
+- Základní aritmetické operátory a jejich priorita
+- Kontrola toku, podmínka `if`
+- Cyklus `while`
+- Definice function defition a její použití
+
+Můžete si stáhnout [vzorový projekt pro první cvičení](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/helloworld.zip), který lze otevřít v IDE [Visual Studio Code](./faq/vscode.md).
 
 
-## Exercise 1
-
-We'll cover the basics:
-- Editing code in [Visual Studio Code](./faq/vscode.md)
-- Compiling code in the command line
-- Defining integer variables
-- Basic arithmetics and operator priorities
-- Flow control, `if` condition
-- `while` loop
-- Function defition and usage
-
-Here's the [template](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/exercise_01.zip) for Visual Studio Code that you can use.
-
-
+<!--
 ## Exercise 2
 
 We'll continue with more usage of:
@@ -62,7 +64,8 @@ Simple function derivation computation and visualization of its meaning (see [vi
 
 <img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/sdl_derivation.gif" width="50%"/>
 
+-->
 
-## Exercise 14
+## Cvičení 14
 
-- Project evaluation
+- Kontrola projektu
