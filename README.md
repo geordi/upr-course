@@ -33,10 +33,10 @@ V sekci [studijní literatury](./readings.md) naleznete odkazy na literaturu, kd
 https://matrix.cs.vsb.cz
 
 
-## Documentace & Cheatsheety
+## Dokumentace & taháky
 - [Dokumentace k jazyku C](https://devdocs.io/c/)
 - [C](./assets/cheatsheets/c.pdf)
-- [C (další version)](./assets/cheatsheets/c_ref_card_v22.pdf)
+- [C (jiný tahák)](./assets/cheatsheets/c_ref_card_v22.pdf)
 - [Linux](./assets/cheatsheets/linux.pdf)
 - [Znaky na klávesnici](./assets/cheatsheets/keyboard-cs.pdf)
 
@@ -52,7 +52,7 @@ Podívejte se do sekce [Linuxový virtuální stroj](./faq/vm.md) pro to, jak je
 V sekci [knihy](books.md) naleznete doporučenou literaturu.
 
 
-## Interesting Links
+## Další užitečné odkazy
 
 Pro vizualizaci jednodušších programů je vhodné použít nástroj [Python Tutor for C](http://pythontutor.com/c.html).
 Můžete si program krokovat a vidět, jak se mění obsah paměti.
