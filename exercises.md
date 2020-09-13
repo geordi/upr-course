@@ -1,9 +1,5 @@
 # Cvičení
 
-Jednotliví cvičící mají své vlastní stránky, konkrétně pro Vaše studijní skupinu, např. [Jakub Beránek](https://github.com/Kobzol/upr) a [Daniel Trnka](https://github.com/trnila/upr).
-
-<!--[Petr Gajdoš](http://gajdos.cs.vsb.cz)  also made [nice page](http://gajdos.cs.vsb.cz/en/introduction-to-programming-1) for exercises with some code samples.-->
-
 ## Cvičení 1
 
 Projdeme následující témata
@@ -12,9 +8,9 @@ Projdeme následující témata
 - Kompilace zdrojového kódu v příkazové řádce
 - Definice celočíselných proměnných
 - Základní aritmetické operátory a jejich priorita
-- Kontrola toku, podmínka `if`
+- Řízení toku, podmínka `if`
 - Cyklus `while`
-- Definice function defition a její použití
+- Definice funkce a její použití
 
 Můžete si stáhnout [vzorový projekt pro první cvičení](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/helloworld.zip), který lze otevřít v IDE [Visual Studio Code](./faq/vscode.md).
 
