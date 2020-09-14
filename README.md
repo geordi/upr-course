@@ -25,8 +25,14 @@ Pro procvičení svých programovacích schopností si můžete naprogramovat [p
 
 ## Studijní literatura
 
-V sekci [studijní literatury](./readings.md) naleznete odkazy na literaturu, kde naleznete seznam doporučených učebních textů, které probírají veškerá témata.
+Je pro Vás připravena [stručná opora](https://mrlvsb.github.io/upr-skripta/) ve formě textu i s interaktivními zdrojovými kódy, která vysvětluje probíraná témata tohoto předmětu.
+[Zdrojové kódy tohoto textu](https://github.com/mrlvsb/upr-skripta) jsou též k dispozici a můžete je upravovat nebo komentovat i Vy sami.
 
+V sekci [knihy](books.md) naleznete doporučenou literaturu.
+
+<!--
+V sekci [studijní literatury](./readings.md) pak naleznete odkazy na sekce z knihy po jednotlivých týdnech.
+-->
 
 ## Chatovací nástroj Matrix
 
@@ -49,7 +55,6 @@ Podívejte se do sekce [Linuxový virtuální stroj](./faq/vm.md) pro to, jak je
 
 ## Knihy
 
-V sekci [knihy](books.md) naleznete doporučenou literaturu.
 
 
 ## Další užitečné odkazy
