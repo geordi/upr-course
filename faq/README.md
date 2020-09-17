@@ -1,11 +1,11 @@
-This FAQ contains several guides for setting up basic stuff.
-It assumes a Linux (Ubuntu/Debian) environment unless specified otherwise.
+Toto FAQ (často kladené dotazy) obsahuje několik návodů o odpovědí na základní věci ohledně předmětu.
+Také se předpokládá prostředí Linuxu (Ubuntu/Debian) pokud není řečeno jinak.
 
-Sections:
-- [Projects](projects.md)
-- [Linux virtual machine](vm.md)
+Sekce:
+- [Projekty](projects.md)
+- [Virtuální stroj s Linuxem](vm.md)
 - [Visual Studio Code](vscode.md)
-- [Building a simple program](build.md)
-- [Debugging](debugging.md)
-- [Remote access to files that you create at university computers](remote_files.md)
-- [Questions from lectures](beginners.md)
+- [Sestavení jednoduchého programu](build.md)
+- [Ladění (debugging)](debugging.md)
+- [Vzdálený přístup k souborům, které editujete na univerzitních počítačích](remote_files.md)
+- [Otázky z přednášek](beginners.md)
