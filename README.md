@@ -62,6 +62,6 @@ Podívejte se do sekce [Linuxový virtuální stroj](./faq/vm.md) pro to, jak je
 Pro vizualizaci jednodušších programů je vhodné použít nástroj [Python Tutor for C](http://pythontutor.com/c.html).
 Můžete si program krokovat a vidět, jak se mění obsah paměti.
 
-[The missing semenster](https://missing.csail.mit.edu/) je velice pěkná stránka o nástrojích a technikách, které by měl znát každý student informatiky, ale obvykle chybí ve studijním plánu.
+[The missing semester](https://missing.csail.mit.edu/) je velice pěkná stránka o nástrojích a technikách, které by měl znát každý student informatiky, ale obvykle chybí ve studijním plánu.
 Pokud chcete býti dostatečně zběhlí v používání každodenních nástrojů programátora, vřele toto doporučuji.
 Předchozí verze je dostupná pod názvem: [./hacker-tools](https://hacker-tools.github.io/lectures/).
