@@ -9,6 +9,8 @@ Minimální počet bodů pro získání klasifikovaného zápočtu je 51 (ze 100
 - 20 bodů (min 10) - odevzdání domácích úloh
 - 30 bodů (min 15) - projekt
 - 15 bodů (min 8) - závěrečný test
+- vstupní dotazník (0 bodů) - nutno vyplnit
+- výstupní dotazník (0 bodů)- nutno vyplnit
 
 
 ## Projekty
