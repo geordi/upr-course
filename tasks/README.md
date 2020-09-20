@@ -1,8 +1,8 @@
 ## Tasks to practice programming
 In this folder you will find coding exercises that you can try to complete in order to improve your programming skillz.
 
-If you don't know how to solve some problem, write to `#general` or to `@Kuba Beránek`/`@Jan Gaura`/`@Daniel Trnka`/`@Radek Svoboda`
-on [Slack](https://upr-vsb.slack.com).
+If you don't know how to solve some problem, write to `#general` or to `@Jakub Beránek`/`@Jan Gaura`/`@Daniel Trnka`
+on [Matrix](https://matrix.cs.vsb.cz/).
 
 #### Problem categories
 - [Basics](basics.md)
