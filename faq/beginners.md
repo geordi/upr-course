@@ -43,3 +43,9 @@ Když už nic, tak na budově Nové knihovny jsou kiosky, které fungují na Va�
 Ideálně použijte textový editor a kompilátor na příkazové řádce. Pro programy, které budeme posupně programovat v tomto předmětu není nutné mít nějaké zásadně složité IDE. Pěkným textovým editorem může být např. [Sublime Text](https://www.sublimetext.com/). Zvládnutí používání textového editoru Vám může přinest mnohem více dovedností nejen pro editování zdrojového kódu.
 
 Pokud však bez IDE nemůžete žít, můžete použít jakékoliv IDE. Každé takové prostředí má svá pro a proti. Takové IDE může být např. [CLion](https://www.jetbrains.com/clion/), [Visual Studio Code](https://code.visualstudio.com/).
+
+
+## Co to znamená, když máme u přednášky UPR napsané Sudý.
+
+To znamená, že výuka probíhá pouze v sudé týdny. Který týden je sudý je možno zjistit na webu [rozvrh.vsb.cz](https://rozvrh.vsb.cz), kde je uveden výčet týdnů sudých a lichých.
+
