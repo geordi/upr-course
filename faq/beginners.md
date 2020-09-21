@@ -5,7 +5,7 @@
 Linux jako operačný systém UNIXového typu je odladěným nástrojem vývojáře.
 Bariéra pro započetí programování v Linuxu je minimální (vlastně otázka instalace jednoho balíčku kompilátoru), což je mnohem snadnější než ve Windows.
 Nikdo Vás nenutí si Linux instalovat přímo na hardware. Poskytujeme Vám [virtuální stroj se stejným prostředím](vm.md) jako je na učebnách.
-V neposlední řadě stojí za zmínku to, že na přijímacích pohovorech do firem jako je Google nebudete mít k dispozici nic jiného než holý editor bez obarvování syntaxe a kompilator.
+V neposlední řadě stojí za zmínku to, že na přijímacích pohovorech do firem jako je Google nebudete mít k dispozici nic jiného než holý editor bez obarvování syntaxe a kompilátor.
 Na Intellisense v takovém případě můžete zapomenout.
 Můžete si o tom přečíst např. v tomto [článku o přípravě na pohovor do Google](https://psc-g.github.io/interviews/google/2020/02/25/interviewing-at-google.html)
 nebo v [článku obdobném](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html).
@@ -36,3 +36,10 @@ Učebny KI jsou tyto (a do většiny z nich je vidět přes okno):
 - EB406
 
 Když už nic, tak na budově Nové knihovny jsou kiosky, které fungují na Vaši studijní kartu. Můžete se tam přihlásit a pracovat. OS je opět Linux a můžete se přihlásit na katedrální Linuxový server `linedu.vsb.cz`.
+
+
+## Jaké IDE mám používat?
+
+Ideálně použijte textový editor a kompilátor na příkazové řádce. Pro programy, které budeme posupně programovat v tomto předmětu není nutné mít nějaké zásadně složité IDE. Pěkným textovým editorem může být např. [Sublime Text](https://www.sublimetext.com/). Zvládnutí používání textového editoru Vám může přinest mnohem více dovedností nejen pro editování zdrojového kódu.
+
+Pokud však bez IDE nemůžete žít, můžete použít jakékoliv IDE. Každé takové prostředí má svá pro a proti. Takové IDE může být např. [CLion](https://www.jetbrains.com/clion/), [Visual Studio Code](https://code.visualstudio.com/).
