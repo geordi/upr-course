@@ -55,10 +55,6 @@ Virtuální stroj s Linuxem, který je dostupný na počítačových učebnách 
 Podívejte se do sekce [Linuxový virtuální stroj](./faq/vm.md) pro to, jak jej použít.
 
 
-## Knihy
-
-
-
 ## Další užitečné odkazy
 
 Pro vizualizaci jednodušších programů je vhodné použít nástroj [Python Tutor for C](http://pythontutor.com/c.html).
