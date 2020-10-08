@@ -7,6 +7,7 @@ V tomto repozitáři naleznete veškeré informace ohledně předmětu Úvod do 
 
 Minimální počet bodů pro získání klasifikovaného zápočtu je 51 (ze 100 možných). Body lze získat z následujících úloh (musíte splnit všechna minima):
 
+
 ### Prezenční studium
 
 - 35 bodů (min 18) - splnění úloh zadaných na cvičení
@@ -21,6 +22,8 @@ Minimální počet bodů pro získání klasifikovaného zápočtu je 51 (ze 100
 - 55 bodů (min 28) - odevzdání domácích úloh
 - 30 bodů (min 15) - projekt
 - 15 bodů (min 8) - závěrečný test
+- vstupní dotazník (0 bodů) - nutno vyplnit
+- výstupní dotazník (0 bodů)- nutno vyplnit
 
 
 ## Projekty
@@ -34,6 +37,8 @@ Podívejte se na stránku určenou přímo pro [cvičení](exercises.md).
 
 Pro procvičení svých programovacích schopností si můžete naprogramovat [připravéné úlohy](tasks).
 
+Odevzdávání domácích úkolů probíhá prostřednictvím systému [Kelvin](https://kelvin.cs.vsb.cz).
+
 
 ## Studijní literatura
 
@@ -46,9 +51,10 @@ V sekci [knihy](books.md) naleznete doporučenou literaturu.
 V sekci [studijní literatury](./readings.md) pak naleznete odkazy na sekce z knihy po jednotlivých týdnech.
 -->
 
+
 ## Chatovací nástroj Matrix
 
-https://matrix.cs.vsb.cz
+Pro online komunikaci můžete použít školní [Matrix server](https://matrix.cs.vsb.cz).
 
 
 ## Dokumentace & taháky
