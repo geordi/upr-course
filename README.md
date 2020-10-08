@@ -35,7 +35,7 @@ Informace o projektu naleznete [zde](faq/projects.md).
 
 Podívejte se na stránku určenou přímo pro [cvičení](exercises.md).
 
-Pro procvičení svých programovacích schopností si můžete naprogramovat [připravéné úlohy](tasks).
+Pro procvičení svých programovacích schopností si můžete naprogramovat [připravené úlohy](tasks).
 
 Odevzdávání domácích úkolů probíhá prostřednictvím systému [Kelvin](https://kelvin.cs.vsb.cz).
 
