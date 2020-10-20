@@ -4,7 +4,7 @@ Zkuste napsat...
 ```c
 my_abs(5);  // 5
 my_abs(0);  // 0
-my_abs(-1); // -1
+my_abs(-1); // 1
 ```
 - Funkci, která vypočte faktoriál parametru
 ```c
