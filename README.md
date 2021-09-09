@@ -10,12 +10,12 @@ Minimální počet bodů pro získání klasifikovaného zápočtu je 51 (ze 100
 
 ### Prezenční studium
 
-- 35 bodů (min 18) - splnění úloh zadaných na cvičení
-- 20 bodů (min 10) - odevzdání domácích úloh
+- 15 bodů (min 8) - splnění úloh zadaných na cvičení
+- 40 bodů (min 20) - odevzdání domácích úloh
 - 30 bodů (min 15) - projekt
 - 15 bodů (min 8) - závěrečný test
-- vstupní dotazník (0 bodů) - nutno vyplnit
-- výstupní dotazník (0 bodů) - nutno vyplnit
+- vstupní dotazník
+- výstupní dotazník
 
 ### Kombinované studium
 
