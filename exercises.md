@@ -12,7 +12,7 @@ Projdeme následující témata
 - Cyklus `while`
 - Definice funkce a její použití
 
-Můžete si stáhnout [vzorový projekt pro první cvičení](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/helloworld.zip), který lze otevřít v IDE [Visual Studio Code](./faq/vscode.md).
+Můžete si stáhnout [vzorový projekt pro první cvičení](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/ex_01.zip), který lze otevřít v IDE [Visual Studio Code](./faq/vscode.md).
 
 
 <!--
