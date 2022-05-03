@@ -62,6 +62,11 @@ Simple function derivation computation and visualization of its meaning (see [vi
 
 -->
 
+## Cvičení 13
+
+- Závěrečný test
+
+
 ## Cvičení 14
 
 - Kontrola projektu
