@@ -15,6 +15,10 @@ Projdeme následující témata
 Můžete si stáhnout [vzorový projekt pro první cvičení](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/ex_01.zip), který lze otevřít v IDE [Visual Studio Code](./faq/vscode.md).
 
 
+## Cvičení 6
+
+- Průběžný test
+
 <!--
 ## Exercise 2
 
@@ -62,7 +66,7 @@ Simple function derivation computation and visualization of its meaning (see [vi
 
 -->
 
-## Cvičení 13
+## Cvičení 12
 
 - Závěrečný test
 
@@ -70,3 +74,4 @@ Simple function derivation computation and visualization of its meaning (see [vi
 ## Cvičení 14
 
 - Kontrola projektu
+- Oprava závěrečnéhé testu
