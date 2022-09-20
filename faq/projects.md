@@ -12,12 +12,12 @@ O termínu odevzdání rohoduje čas submitu v systému [Kelvin](https://kelvin.
 Pro plný počet bodů, tj. 30 b pro standardní zadání a 40 b pro SDL zadáním je termín odevzdání na cvičení v zápočtovém týdnu.
 
 
-#### Odevzdáno do 29. 12. 2021
+#### Odevzdáno do 30. 12. 2022
 
 Standardní projekt bude ohodnocen maximálně 23 b, SDL projekt pak 32 b.
 
 
-#### Odevzdáno do 5. 1. 2022
+#### Odevzdáno do 6. 1. 2023
 
 Standardní projekt bude ohodnocen maximálně 17 b, SDL projekt pak 25 b.
 
@@ -37,7 +37,7 @@ Pokud s něčím nevíte rady, kontaktujte svého cvičícího nebo napište už
 
 ### Kdy je zápočtový týden? A komu se bude projekt odevzdávat? Cvičícímu nebo přednášejícímu?
 
-- Zápočtový týden je ve dnech 13. - 17. 12. 2021. Projekt se odevzdává cvičícímu.
+- Zápočtový týden je ve dnech 5. - 9. 12. 2022. Projekt se odevzdává cvičícímu.
 
 ### Můžeme si vybrat z těch 2 zadání projektu nebo je to druhé jenom bonus? Nějaký učitel tvrdil že to druhé je jenom bonus
 
