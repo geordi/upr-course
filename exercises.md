@@ -9,10 +9,19 @@ Projdeme následující témata
 - Definice celočíselných proměnných
 - Základní aritmetické operátory a jejich priorita
 - Řízení toku, podmínka `if`
-- Cyklus `while`
-- Definice funkce a její použití
 
-Můžete si stáhnout [vzorový projekt pro první cvičení](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/ex_01.zip), který lze otevřít v IDE [Visual Studio Code](./faq/vscode.md).
+Použijte [vzorový projekt]](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/ex_01.zip), který lze otevřít v IDE [Visual Studio Code](./faq/vscode.md) pro první cvičení.
+
+
+## Cvičení 2
+
+- Řízení toku, podmínka `if`
+- Cyklus `while`
+
+
+## Cvičení 3
+
+- Definice funkce a její použití
 
 
 ## Cvičení 6
