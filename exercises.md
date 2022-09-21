@@ -10,7 +10,7 @@ Projdeme následující témata
 - Základní aritmetické operátory a jejich priorita
 - Řízení toku, podmínka `if`
 
-Použijte [vzorový projekt]](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/ex_01.zip), který lze otevřít v IDE [Visual Studio Code](./faq/vscode.md) pro první cvičení.
+Použijte [vzorový projekt](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/ex_01.zip), který lze otevřít v IDE [Visual Studio Code](./faq/vscode.md) pro první cvičení.
 
 
 ## Cvičení 2
