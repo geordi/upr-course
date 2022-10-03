@@ -37,7 +37,15 @@ Podívejte se na stránku určenou přímo pro [cvičení](exercises.md).
 
 Pro procvičení svých programovacích schopností si můžete naprogramovat [připravené úlohy](tasks).
 
+
+## Domácí úkoly
+
 Odevzdávání domácích úkolů probíhá prostřednictvím systému [Kelvin](https://kelvin.cs.vsb.cz).
+
+Domácí úkoly jsou samostatnou prací. Vypracovávejte je tedy každý sám za sebe.
+Jakékoliv opisování bude poprvé potrestáno srážkou 15 bodů z domácích úkolů.
+Při opakovaném opisování pak neabsolvujete předmět.
+Nebude se řešit, kdo co od koho opsal. Neopisujte a nemáte problém.
 
 
 ## Studijní literatura
