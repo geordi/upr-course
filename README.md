@@ -43,10 +43,14 @@ Pro procvičení svých programovacích schopností si můžete naprogramovat [p
 Odevzdávání domácích úkolů probíhá prostřednictvím systému [Kelvin](https://kelvin.cs.vsb.cz).
 
 Domácí úkoly jsou samostatnou prací. Vypracovávejte je tedy každý sám za sebe.
-Jakékoliv opisování bude poprvé potrestáno srážkou 15 bodů z domácích úkolů.
+Jakékoliv opisování bude poprvé potrestáno srážkou 15 bodů z domácích úkolů (pokud nalezneme zdroj kódu, bude to ohodnoceno 0 body).
 Při opakovaném opisování pak neabsolvujete předmět.
 Nebude se řešit, kdo co od koho opsal. Neopisujte a nemáte problém.
 
+Je v naprostém pořádku, že konzultovatuejte zadané problémy a řešení se spolužáky.
+To ovšem neznamená, že sdílíte zdrojový kód řešení.
+
+*****Nesdílejte své zrojové kódy se spolužáky!**
 
 ## Studijní literatura
 
