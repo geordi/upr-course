@@ -50,7 +50,7 @@ Nebude se řešit, kdo co od koho opsal. Neopisujte a nemáte problém.
 Je v naprostém pořádku, že konzultovatuejte zadané problémy a řešení se spolužáky.
 To ovšem neznamená, že sdílíte zdrojový kód řešení.
 
-**Nesdílejte své zrojové kódy se spolužáky!**
+**Nesdílejte své zdrojové kódy se spolužáky!**
 
 ## Studijní literatura
 
