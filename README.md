@@ -38,6 +38,12 @@ Podívejte se na stránku určenou přímo pro [cvičení](exercises.md).
 Pro procvičení svých programovacích schopností si můžete naprogramovat [připravené úlohy](tasks).
 
 
+## Přednášky
+
+Seznam [přednášek](lectures.md) je k dispozici na samostatné stránce.
+Některé přednášky jsou také na [YouTube](https://www.youtube.com/channel/UCplsQTrQdWEej9tvBxifUFQ).
+
+
 ## Domácí úkoly
 
 Odevzdávání domácích úkolů probíhá prostřednictvím systému [Kelvin](https://kelvin.cs.vsb.cz).
