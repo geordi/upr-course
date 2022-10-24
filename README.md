@@ -54,8 +54,8 @@ Jakékoliv opisování bude poprvé potrestáno srážkou 15 bodů z domácích 
 Při opakovaném opisování pak neabsolvujete předmět.
 Nebude se řešit, kdo co od koho opsal. Neopisujte a nemáte problém.
 
-Je v naprostém pořádku, že konzultovatuejte zadané problémy a řešení se spolužáky.
-To ovšem neznamená, že sdílíte zdrojový kód řešení.
+Je v naprostém pořádku, konzultovat zadané problémy nebo vysvětlovat něco spolužákům.
+To ovšem neznamená, že sdílíte zdrojový kód řešení nebo že někomu budete řádek po řádku diktovat řešení.
 
 **Nesdílejte své zdrojové kódy se spolužáky!**
 
