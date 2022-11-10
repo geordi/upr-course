@@ -24,9 +24,35 @@ Použijte [vzorový projekt](https://github.com/geordi/upr-course/raw/master/ass
 - Definice funkce a její použití
 
 
+## Cvičení 4
+
+
+
+
+## Cvičení 5
+
+
+
+
 ## Cvičení 6
 
+- Řetězce (string)
+
+
+## Cvičení 7
+
 - Průběžný test
+
+
+## Cvičení 8
+
+- Vlastní datové typy (struktury)
+
+
+## Cvičení 9
+
+- Modularizace (TGA)
+
 
 <!--
 ## Exercise 2
