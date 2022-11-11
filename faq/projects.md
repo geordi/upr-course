@@ -2,7 +2,7 @@
 
 Zadání projektu je Vám k dispozici v systému [Kelvin](https://kelvin.cs.vsb.cz).
 
-Můžete si vybrat mezi "klasickým" a nebo [SDL](https://mrlvsb.github.io/upr-skripta/c/aplikovane_ulohy/sdl.html) projektem. To, který projekt chcete realizovat nahlásíte svému cvičícímu do 2. 12. 2022.
+Můžete si vybrat mezi "klasickým" a nebo [SDL](https://mrlvsb.github.io/upr-skripta/c/aplikovane_ulohy/sdl.html) projektem. To, který projekt chcete realizovat, nahlásíte svému cvičícímu do 2. 12. 2022.
 
 Klasický projekt je hodnocen maximálně 30 b. SDL projekt pak maximálně 40 b.
 
@@ -28,6 +28,10 @@ Standardní projekt bude ohodnocen maximálně 23 b, SDL projekt pak 32 b.
 #### Odevzdáno do 13. 1. 2023
 
 Standardní projekt bude ohodnocen maximálně 17 b, SDL projekt pak 25 b.
+
+#### Odevzdáno po 13. 1. 2023
+
+Projekt nebude klasifikován a obdržíte tak za něj 0 bodů.
 
 
 <!--
