@@ -45,3 +45,11 @@
 
 - YouTube videa:
   - [Strukturované datové typy](https://www.youtube.com/watch?v=j3ws0KZWYU4)
+
+
+## Přednáška 5
+
+- Kapitoly ve studijním textu:
+  - [Soubory](https://mrlvsb.github.io/upr-skripta/c/soubory/soubory.html)
+  - [Parametry příkazového řádku](https://mrlvsb.github.io/upr-skripta/c/text/vstup.html#parametry-p%C5%99%C3%ADkazov%C3%A9ho-%C5%99%C3%A1dku)
+    - [Vstupní parametry funkce main](https://mrlvsb.github.io/upr-skripta/ruzne/funkce_main.html#vstupn%C3%AD-parametry-funkce-main)
