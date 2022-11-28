@@ -41,7 +41,7 @@ Použijte [vzorový projekt](https://github.com/geordi/upr-course/raw/master/ass
 
 ## Cvičení 7
 
-- Průběžný test
+- Průběžný test (oprava ve zkouškovém období)
 
 
 ## Cvičení 8
@@ -53,6 +53,10 @@ Použijte [vzorový projekt](https://github.com/geordi/upr-course/raw/master/ass
 
 - Modularizace (TGA)
 
+
+## Cvičení 10
+
+- Dynamické pole
 
 <!--
 ## Exercise 2
@@ -101,12 +105,13 @@ Simple function derivation computation and visualization of its meaning (see [vi
 
 -->
 
+## Cvičení 11
+
+- SDL
+
+
 ## Cvičení 12
 
-- Závěrečný test
+- SDL
 
 
-## Cvičení 14
-
-- Kontrola projektu
-- Oprava závěrečnéhé testu
