@@ -58,6 +58,12 @@ Použijte [vzorový projekt](https://github.com/geordi/upr-course/raw/master/ass
 
 - Dynamické pole
 
+
+## Cvičení 12
+
+- SDL - [Vzorový template](https://github.com/geordi/upr-course/raw/master/assets/exercises/templates/sdl_playground.zip)
+
+
 <!--
 ## Exercise 2
 
@@ -104,14 +110,4 @@ Simple function derivation computation and visualization of its meaning (see [vi
 <img src="https://raw.githubusercontent.com/geordi/upr-course/master/assets/images/sdl_derivation.gif" width="50%"/>
 
 -->
-
-## Cvičení 11
-
-- SDL
-
-
-## Cvičení 12
-
-- SDL
-
 
