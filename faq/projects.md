@@ -2,37 +2,18 @@
 
 Zadání projektu je Vám k dispozici v systému [Kelvin](https://kelvin.cs.vsb.cz).
 
-Můžete si vybrat mezi "klasickým" a nebo [SDL](https://mrlvsb.github.io/upr-skripta/c/aplikovane_ulohy/sdl.html) projektem. To, který projekt chcete realizovat, nahlásíte svému cvičícímu do 2. 12. 2022.
+Můžete si vybrat mezi "klasickým" a nebo [SDL](https://mrlvsb.github.io/upr-skripta/c/aplikovane_ulohy/sdl.html) projektem.
+To, který projekt chcete realizovat, nahlásíte svému cvičícímu do 31. 10. 2023.
 
-Klasický projekt je hodnocen maximálně 30 b. SDL projekt pak maximálně 40 b.
+Klasický projekt je hodnocen maximálně 30 body. SDL projekt pak maximálně 35 body.
 
-Projekt předvedete svému cvičícímu osobně v domluveném termínu, o kterém Vás bude informovat.
-
+Projekt budete muset obhájit před svým cvičícím v domluveném termínu, o kterém Vás bude informovat.
 
 ### Termín odevzdání
 
-Projekt je možno odevzdat v následujícíh termínech (čas je jednotně stanoven na 23:59).
-O termínu odevzdání rozhoduje datum a čas submitu v systému [Kelvin](https://kelvin.cs.vsb.cz).
-
-
-#### Odevzdáno do 3. 1. 2023
-
-Pro plný počet bodů, tj. 30 b pro standardní zadání a 40 b pro SDL zadáním je termín odevzdání 3. 1. 2022.
-
-
-#### Odevzdáno do 8. 1. 2023
-
-Standardní projekt bude ohodnocen maximálně 23 b, SDL projekt pak 32 b.
-
-
-#### Odevzdáno do 13. 1. 2023
-
-Standardní projekt bude ohodnocen maximálně 17 b, SDL projekt pak 25 b.
-
-#### Odevzdáno po 13. 1. 2023
-
-Projekt nebude klasifikován a obdržíte tak za něj 0 bodů.
-
+Projekt musíte odevzdat do 2. 1. 2024 23:59.
+Tento termín **nebude posouván**. Pokud projekt neodevzdáte do tohoto termínu, bude hodnocen 0 body.
+O korektním odevzdání rozhoduje datum a čas submitu v systému [Kelvin](https://kelvin.cs.vsb.cz).
 
 <!--
 ## FAQ
