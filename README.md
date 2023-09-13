@@ -72,10 +72,10 @@ V sekci [studijní literatury](./readings.md) pak naleznete odkazy na sekce z kn
 -->
 
 
-## Chatovací nástroj Matrix
+## Chatovací nástroj
 
-Pro online komunikaci můžete použít školní [Matrix server](https://matrix.cs.vsb.cz).
-
+Pro online komunikaci můžete použít školní [Discord server]([https://matrix.cs.vsb.cz](https://discord-fei.vsb.cz/)), který má vyčleněnou místnost pro [UPR](https://discord.com/channels/631124326522945546/1058360071567978496/threads/1058362395896062042). V této místnosti se vyskytují někteří cvičící, kteří studentům
+radí s řešením úloh a různých problémů.
 
 ## Dokumentace & taháky
 - [Dokumentace k jazyku C](https://devdocs.io/c/)
