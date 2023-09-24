@@ -2,6 +2,7 @@
 
 V tomto repozitáři naleznete veškeré informace ohledně předmětu Úvod do programovaní (UPR), který je vyučován na [Katedře informatiky](https://www.cs.vsb.cz), [VŠB - TU Ostrava](https://www.vsb.cz).
 
+**Online skripta (hlavní studijní materiál) naleznete [zde](https://mrlvsb.github.io/upr-skripta/uvod/uvod.html).**
 
 ## Hodnocení
 
