@@ -5,7 +5,7 @@ Jedná se o podobnou konfiguraci s jakou se setkáte na počítačích na učebn
 
 ## Obraz virtuálního stroje (Virtual image)
 
-Obraz pro virtuální stroj je k dispozici [na tomto odkazu](http://mrl.cs.vsb.cz/data/upr/UPR.ova) v OVA formátu.
+Obraz pro virtuální stroj je k dispozici [na tomto odkazu](https://drive.google.com/file/d/1RsFoternYw1vNYlHefa5wr1ZwLv81wBi/view?usp=sharing) v OVA formátu.
 
 Údaje pro přihlášení jsou následující:
 - Uživatel: `student`
