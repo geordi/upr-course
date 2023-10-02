@@ -18,8 +18,9 @@ Půjdeme i do hloubky, smyčky a podmínky budeme řešit na první přednášce
 
 ## Vůbec nevím o co go... Nějaké doporučení, stránky, cokoliv pro úplné losery ?
 
-Ideálně se ptejte na přednáškách a acvičeních. Od toho tady jsme, abychom Vás to naučili. Dále doporučuji sekci [ke čtení (Readings)](/readings.md). Neméně důležitou součástí práce i pravidelné programování.
-
+Ideálně se ptejte na přednáškách a cvičeních. Od toho tady jsme, abychom Vás to naučili. Dále doporučujeme sekci [ke čtení (Readings)](/readings.md).
+Neméně důležitou součástí práce je i pravidelné programování, alespoň 1-2h denně. Pokud budete s něčím zápasit, zeptejte se na školním Discordu v
+[místnosti UPR](https://discord.com/channels/631124326522945546/1058362395896062042). Rádi vam tam s čímkoliv poradíme.
 
 ## Co když nemám žádný počítač ani ntb? Low-budget student.
 
