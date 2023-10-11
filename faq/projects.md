@@ -2,7 +2,7 @@
 
 Zadání projektu je Vám k dispozici v systému [Kelvin](https://kelvin.cs.vsb.cz).
 
-Můžete si vybrat mezi "klasickým" a nebo [SDL](https://mrlvsb.github.io/upr-skripta/c/aplikovane_ulohy/sdl.html) projektem.
+Můžete si vybrat mezi "klasickým" a [SDL](https://mrlvsb.github.io/upr-skripta/c/aplikovane_ulohy/sdl.html) projektem.
 To, který projekt chcete realizovat, nahlásíte svému cvičícímu do 31. 10. 2023.
 
 Klasický projekt je hodnocen maximálně 30 body. SDL projekt pak maximálně 35 body.
