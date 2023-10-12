@@ -56,10 +56,18 @@ Jakékoliv opisování bude poprvé potrestáno srážkou 10 bodů z domácích 
 Při opakovaném opisování pak neabsolvujete předmět.
 Nebude se řešit, kdo co od koho opsal. Neopisujte a nemáte problém.
 
-Je v naprostém pořádku, konzultovat zadané problémy nebo vysvětlovat něco spolužákům.
-To ovšem neznamená, že sdílíte zdrojový kód řešení nebo že někomu budete řádek po řádku diktovat řešení.
+Někteří studenti se po "načapání" vymlouvají, že neví, co je to plagiarismus a že si mysleli,
+že jejich chování plagiarismus není. Proto tady uvádíme několik příkladů:
 
-**Nesdílejte své zdrojové kódy se spolužáky!**
+- Co je v pořádku:
+   - Zeptat se vyučujícího (např. na Discordu) o radu nebo navedení k vyřešení konkrétního problému.
+   - Zeptat se spolužáka (např. na Discordu) o vysvětlení nějakého konceptu.
+ - Co není v pořádku:
+   - Podívat se na kód od někoho jiného. V momentě, kdy uvidíte cizí řešení, už to nikdy nenapíšete jinak!
+     Zároveň, můžete poté mít falešný pocit, že kódu rozumíte. Nicméně přečíst si kód a pokývat souhlasně
+     hlavou, že tomu rozumíte, je zcela něco jiného, než řešení napsat samostatně od nuly — to je řádově složitější.
+   - Diktovat někomu jinému, jak přesně má kód psát. Diktování řešení je to stejné, jako byste se podívali na řešení někoho jiného.
+   - Sdílet svůj kód s ostatními, nahrávat jej na veřejný repozitář apod.
 
 ## Studijní literatura
 
