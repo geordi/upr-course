@@ -64,9 +64,9 @@ Někteří studenti se po "načapání" vymlouvají, že neví, co je to plagiar
    - Zeptat se spolužáka (např. na Discordu) o vysvětlení nějakého konceptu.
  - Co není v pořádku:
    - Podívat se na kód od někoho jiného. V momentě, kdy uvidíte cizí řešení, už to nikdy nenapíšete jinak!
-     Zároveň, můžete poté mít falešný pocit, že kódu rozumíte. Nicméně přečíst si kód a pokývat souhlasně
+     Zároveň můžete poté mít falešný pocit, že kódu rozumíte. Nicméně přečíst si kód a pokývat souhlasně
      hlavou, že tomu rozumíte, je zcela něco jiného, než řešení napsat samostatně od nuly — to je řádově složitější.
-   - Diktovat někomu jinému, jak přesně má kód psát. Diktování řešení je to stejné, jako byste se podívali na řešení někoho jiného.
+   - Diktovat někomu jinému (nebo si nechat diktovat), jak přesně psát kód. Diktování řešení je to stejné, jako byste se podívali na řešení někoho jiného.
    - Sdílet svůj kód s ostatními, nahrávat jej na veřejný repozitář apod.
 
 ## Studijní literatura
