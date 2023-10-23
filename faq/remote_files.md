@@ -4,7 +4,7 @@ Whenever you login into the Linux on our lab computer,
 your home directory is mounted for you from a shared data storage.
 This directory is stored at the department's NFS storage.
 The same home directory is also mounted on the `linedu.vsb.cz` server
-that you can you for remote work.
+that you can use for remote work.
 
 
 ## Access files on `linedu.vsb.cz` server
