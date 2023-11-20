@@ -67,7 +67,7 @@ Někteří studenti se po "načapání" vymlouvají, že neví, co je to plagiar
      Zároveň můžete poté mít falešný pocit, že kódu rozumíte. Nicméně přečíst si kód a pokývat souhlasně
      hlavou, že tomu rozumíte, je zcela něco jiného, než řešení napsat samostatně od nuly — to je řádově složitější.
    - Diktovat někomu jinému (nebo si nechat diktovat), jak přesně psát kód. Diktování řešení je to stejné, jako byste se podívali na řešení někoho jiného.
-   - Sdílet svůj kód s ostatními, nahrávat jej na veřejný repozitář apod.
+   - Sdílet svůj kód s ostatními, nahrávat jej na veřejný repozitář apod. stejně tak jako číst, kopírovat či jinak užívat takto získaný kód.
 
 ## Studijní literatura
 
