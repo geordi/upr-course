@@ -94,10 +94,12 @@ radí s řešením úloh a různých problémů.
 - [Znaky na klávesnici](./assets/cheatsheets/keyboard-cs.pdf)
 
 
+<!--
 ## Virtuální stroj s Linuxem
 
 Virtuální stroj s Linuxem, který je dostupný na počítačových učebnách je Vám též k dispozici.
 Podívejte se do sekce [Linuxový virtuální stroj](./faq/vm.md) pro to, jak jej použít.
+-->
 
 
 ## Další užitečné odkazy

@@ -4,7 +4,7 @@
 
 Linux jako operačný systém UNIXového typu je odladěným nástrojem vývojáře.
 Bariéra pro započetí programování v Linuxu je minimální (vlastně otázka instalace jednoho balíčku kompilátoru), což je mnohem snadnější než ve Windows.
-Nikdo Vás nenutí si Linux instalovat přímo na hardware. Poskytujeme Vám [virtuální stroj se stejným prostředím](vm.md) jako je na učebnách.
+Nikdo Vás nenutí si Linux instalovat přímo na hardware. <!--Poskytujeme Vám [virtuální stroj se stejným prostředím](vm.md) jako je na učebnách.-->
 V neposlední řadě stojí za zmínku to, že na přijímacích pohovorech do firem jako je Google nebudete mít k dispozici nic jiného než holý editor bez obarvování syntaxe a kompilátor.
 Na Intellisense v takovém případě můžete zapomenout.
 Můžete si o tom přečíst např. v tomto [článku o přípravě na pohovor do Google](https://psc-g.github.io/interviews/google/2020/02/25/interviewing-at-google.html)
