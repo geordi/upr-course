@@ -19,7 +19,8 @@ https://code.visualstudio.com/docs/setup/setup-overview
 Otevřete termánál a spusťte následující příkazy pro instalaci rozšíření VSCode:
 
 ```
-$ code --install-extension ms-vscode.cpptools
+code --install-extension ms-vscode.cpptools
+code --install-extension jakub-beranek.memviz
 ```
 
 <!--
