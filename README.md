@@ -81,6 +81,11 @@ V sekci [studijní literatury](./readings.md) pak naleznete odkazy na sekce z kn
 -->
 
 
+## Online doučování
+
+Na stránce s [online doučováním](faq/tutoring.md) naleznete odkazy na jednotlivé záznamy z doučování, které probíhá na Discordu.
+
+
 ## Chatovací nástroj
 
 Pro online komunikaci můžete použít školní [Discord server]([https://matrix.cs.vsb.cz](https://discord-fei.vsb.cz/)), který má vyčleněnou místnost pro [UPR](https://discord.com/channels/631124326522945546/1058360071567978496/threads/1058362395896062042). V této místnosti se vyskytují někteří cvičící, kteří studentům
