@@ -9,3 +9,4 @@ Můžete se ho zúčastnít online nebo se podívat na záznam a zopakovat si pr
 - [Záznam 28. 10. 2024](https://www.youtube.com/watch?v=H4x2gq7gi4M) - Dynamická alokace paměti, 1D pole, `realloc`.
 - [Záznam 2. 11. 2024](https://www.youtube.com/watch?v=IkyypPHZp1w) - Práce s textem, řetězce znaků (stringy).
 - [Záznam 18. 11. 2024](https://youtu.be/C4WKG29W6WM) - Struktury.
+- [Záznam 25. 11. 2024](https://youtu.be/QIjBrL0XdrM) - Textové soubory.
