@@ -1,4 +1,4 @@
-# Úvod do programování
+# Úvod do programování ([English version](README_en.md))
 
 V tomto repozitáři naleznete veškeré informace ohledně předmětu Úvod do programování (UPR), který je vyučován na [Katedře informatiky](https://www.cs.vsb.cz), [VŠB - TU Ostrava](https://www.vsb.cz).
 
@@ -18,16 +18,12 @@ Minimální počet bodů pro získání klasifikovaného zápočtu je 51 (ze 100
 - 45 bodů (min 18) - odevzdání domácích úloh
 - 30 bodů (min 15) - projekt
 - 15 bodů (min 6) - závěrečný test
-- vstupní dotazník
-- výstupní dotazník
 
 ### Kombinované studium
 
 - 55 bodů (min 28) - odevzdání domácích úloh
 - 30 bodů (min 15) - projekt
 - 15 bodů (min 8) - závěrečný test
-- vstupní dotazník
-- výstupní dotazník
 
 
 ## Projekty
