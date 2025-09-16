@@ -4,7 +4,7 @@ are programs that combine editor functionality (writing text/code) with
 tools useful for programmers (compiling/debugging programs).
 
 ### Useful shortcuts 
-- Start debugging - `Ctrl + F5`
+- Start debugging - `F5`
 - Format code - `Ctrl + Shift + I`
 - Execute action - `Ctrl + Shift + P`
 
@@ -19,8 +19,8 @@ https://code.visualstudio.com/docs/setup/setup-overview
 Open up a terminal and execute the following commands to install VSCode extensions:
 
 ```
-$ code --install-extension ms-vscode.cpptools
-$ code --install-extension ms-vscode.cmake-tools
+code --install-extension ms-vscode.cpptools
+code --install-extension jakub-beranek.memviz
 ```
 
 <!--
