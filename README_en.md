@@ -74,17 +74,6 @@ In the [study readings](./readings.md) section, you can find links to book chapt
 -->
 
 
-## Online Tutoring
-
-On the [online tutoring](faq/tutoring.md) page, you will find links to tutoring session recordings, which take place on Discord.
-
-
-## Communication Tool
-
-For online communication, you can use the university’s [Discord server](https://discord-fei.vsb.cz/), which has a dedicated channel for [UPR](https://discord.com/channels/631124326522945546/1058360071567978496/threads/1058362395896062042). Some teaching assistants are active there to help students with assignments and various issues.  
-If you cannot access the channel, you must first join the university [Discord server](https://discord-fei.vsb.cz/).
-
-
 ## Documentation & Cheat Sheets
 - [C language documentation](https://devdocs.io/c/)
 - [C](./assets/cheatsheets/c.pdf)
