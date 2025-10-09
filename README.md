@@ -49,7 +49,7 @@ Některé přednášky jsou také na [YouTube](https://www.youtube.com/channel/U
 Odevzdávání domácích úkolů probíhá prostřednictvím systému [Kelvin](https://kelvin.cs.vsb.cz).
 
 Domácí úkoly jsou samostatnou prací. Vypracovávejte je tedy každý sám za sebe.
-Jakékoliv opisování bude poprvé potrestáno srážkou 10 bodů z domácích úkolů.
+Jakékoliv opisování bude poprvé potrestáno srážkou až 30 bodů z domácích úkolů.
 Při opakovaném opisování pak neabsolvujete předmět.
 Nebude se řešit, kdo co od koho opsal. Neopisujte a nemáte problém.
 
