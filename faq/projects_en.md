@@ -4,7 +4,7 @@ The project assignment is available in the [Kelvin](https://kelvin.cs.vsb.cz) sy
 
 You can choose between the "classic" project and an [SDL](https://mrlvsb.github.io/upr-skripta/c/aplikovane_ulohy/sdl.html) project.  
 The SDL project is more demanding and is recommended for students who wish to go beyond the standard curriculum and learn something new during its implementation.  
-Your choice of project must be reported to your teaching assistant by **October 31, 2025**.
+Your choice of project must be reported to your teaching assistant by **November 7, 2025**.
 
 The project is worth a maximum of **30 points** (for either option).
 
