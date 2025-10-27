@@ -4,7 +4,7 @@ Zadání projektu je Vám k dispozici v systému [Kelvin](https://kelvin.cs.vsb.
 
 Můžete si vybrat mezi "klasickým" a [SDL](https://mrlvsb.github.io/upr-skripta/c/aplikovane_ulohy/sdl.html) projektem.
 SDL projekt je náročnější a je doporučen studentům, kteří se chtějí v průběhu jeho realizace naučit něco nového nad běžný rámec studia.
-To, který projekt chcete realizovat, nahlásíte svému cvičícímu do 31. 10. 2024.
+To, který projekt chcete realizovat, nahlásíte svému cvičícímu do 31. 10. 2025.
 
 Projekt je hodnocen maximálně 30 body (v obou případech zadání).
 
