@@ -8,7 +8,7 @@ V tomto repozitáři naleznete veškeré informace ohledně předmětu Úvod do 
 
 Minimální počet bodů pro získání klasifikovaného zápočtu je 51 (ze 100 možných). Body lze získat z následujících úloh (musíte splnit všechna minima):
 
-- Počítadlo rozdaných záporných bodů (2025/2026): **-470 b**
+- Počítadlo rozdaných záporných bodů (2025/2026): **-820 b**
 - Počítadlo rozdaných záporných bodů (2024/2025): **-2370 b**
 - Počítadlo rozdaných záporných bodů (2023/2024): **-1090 b**
 - Počítadlo rozdaných záporných bodů (2022/2023): **-890 b**
