@@ -50,8 +50,7 @@ Některé přednášky jsou také na [YouTube](https://www.youtube.com/channel/U
 Odevzdávání domácích úkolů probíhá prostřednictvím systému [Kelvin](https://kelvin.cs.vsb.cz).
 
 Domácí úkoly jsou samostatnou prací. Vypracovávejte je tedy každý sám za sebe.
-Jakékoliv opisování bude poprvé potrestáno srážkou až 30 bodů z domácích úkolů.
-Při opakovaném opisování pak neabsolvujete předmět.
+Jakékoliv opisování bude poprvé potrestáno srážkou 100 bodů a vyloučením z předmětu.
 Nebude se řešit, kdo co od koho opsal. Neopisujte a nemáte problém.
 
 Někteří studenti se po "načapání" vymlouvají, že neví, co je to plagiarismus a že si mysleli,
@@ -60,12 +59,14 @@ Někteří studenti se po "načapání" vymlouvají, že neví, co je to plagiar
 - Co je v pořádku:
    - Zeptat se vyučujícího (např. na Discordu) o radu nebo navedení k vyřešení konkrétního problému.
    - Zeptat se spolužáka (např. na Discordu) o vysvětlení nějakého konceptu.
+   - Používat modely umělé inteligence pro vysvětlení nějakého konceptu nebo nalezení chyb v kódu, který jste sami napsali.
  - Co není v pořádku:
    - Podívat se na kód od někoho jiného. V momentě, kdy uvidíte cizí řešení, už to nikdy nenapíšete jinak!
      Zároveň můžete poté mít falešný pocit, že kódu rozumíte. Nicméně přečíst si kód a pokývat souhlasně
      hlavou, že tomu rozumíte, je zcela něco jiného, než řešení napsat samostatně od nuly — to je řádově složitější.
    - Diktovat někomu jinému (nebo si nechat diktovat), jak přesně psát kód. Diktování řešení je to stejné, jako byste se podívali na řešení někoho jiného.
    - Sdílet svůj kód s ostatními, nahrávat jej na veřejný repozitář apod. stejně tak jako číst, kopírovat či jinak užívat takto získaný kód.
+   - Používat modely umělé inteligence pro generování kódu.
 
 ## Studijní literatura
 
